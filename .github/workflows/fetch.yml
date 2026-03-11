@@ -1,0 +1,43 @@
+name: Fetch AI News
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'   # every 5 minutes
+  workflow_dispatch:          # allow manual trigger
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Ensure data directory exists
+        run: mkdir -p data
+
+      - name: Run fetch pipeline
+        env:
+          GEMINI_API_KEY:          ${{ secrets.GEMINI_API_KEY }}
+          PRODUCT_HUNT_API_KEY:    ${{ secrets.PRODUCT_HUNT_API_KEY }}
+        run: node index.js
+
+      - name: Commit buffer if changed
+        run: |
+          git config user.name  "AI Radar Bot"
+          git config user.email "bot@ai-radar.dev"
+          git add data/buffer.json
+          git diff --staged --quiet || git commit -m "chore: update buffer [skip ci]"
+          git push
