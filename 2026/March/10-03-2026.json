@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-11T17:42:25.769Z",
+  "generatedAt": "2026-03-11T18:42:21.590Z",
   "date": "10-03-2026",
-  "count": 57,
+  "count": 56,
   "summary": null,
   "items": [
     {
@@ -770,26 +770,6 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1rq3bix",
-      "title": "Ran an experiment: 0.8B model teaching itself on a MacBook Air with 6GB RAM. Some findings that surprised me.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rq3bix/ran_an_experiment_08b_model_teaching_itself_on_a/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "model",
-      "timestamp": "2026-03-10T17:28:31+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
       "title": "ABB: Physical AI simulation boosts ROI for factory automation",
       "url": "https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/",
@@ -1130,34 +1110,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.09652",
-      "title": "MiniAppBench: Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assistants",
-      "url": "https://huggingface.co/papers/2603.09652",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-10T09:30:03.000Z",
-      "abstract": "With the rapid advancement of Large Language Models (LLMs) in code generation, human-AI interaction is evolving from static text responses to dynamic, interactive HTML-based applications, which we ter",
-      "authors": [
-        "Zuhao Zhang",
-        "Chengyue Yu",
-        "Yuante Li",
-        "Chenyi Zhuang",
-        "Linjian Mo"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2603.09555",
       "title": "Compiler-First State Space Duality and Portable O(1) Autoregressive Caching for Inference",
       "url": "https://huggingface.co/papers/2603.09555",
@@ -1291,6 +1243,34 @@
         "Hongbo Zhao"
       ],
       "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.09221",
+      "title": "Beyond Test-Time Training: Learning to Reason via Hardware-Efficient Optimal Control",
+      "url": "https://huggingface.co/papers/2603.09221",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-10T01:42:13.000Z",
+      "abstract": "Associative memory has long underpinned the design of sequential models. Beyond recall, humans reason by projecting future states and selecting goal-directed actions, a capability that modern language",
+      "authors": [
+        "Peihao Wang",
+        "Shan Yang",
+        "Xijun Wang",
+        "Tesi Xiao",
+        "Xin Liu"
+      ],
+      "tags": [
+        "training"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
