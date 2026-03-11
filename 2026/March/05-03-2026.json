@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-03-11T12:38:46.557Z",
+  "generatedAt": "2026-03-11T13:59:36.569Z",
   "date": "05-03-2026",
-  "count": 11,
+  "count": 12,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2603.05863",
+      "title": "ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning",
+      "url": "https://huggingface.co/papers/2603.05863",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-05T22:38:17.000Z",
+      "abstract": "While Large Language Models (LLMs) have revolutionized code generation, standard \"System 1\" approaches, generating solutions in a single forward pass, often hit a performance ceiling when faced with c",
+      "authors": [
+        "Juyong Jiang",
+        "Jiasi Shen",
+        "Sunghun Kim",
+        "Kang Min Yoo",
+        "Jeonghoon Kim"
+      ],
+      "tags": [
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fproton-m",
       "title": "Proton Mail Helped FBI Unmask Anonymous ‘Stop Cop City’ Protester",

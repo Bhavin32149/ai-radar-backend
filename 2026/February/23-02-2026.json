@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-11T12:38:46.563Z",
+  "generatedAt": "2026-03-11T13:59:36.574Z",
   "date": "23-02-2026",
-  "count": 8,
+  "count": 7,
   "summary": null,
   "items": [
     {
@@ -55,26 +55,6 @@
       "type": "news",
       "timestamp": "2026-02-23T19:40:07.000Z",
       "abstract": "After years of scattered pilots, companies are adopting more disciplined approaches to artificial intelligence, guided by enterprise demands for proof, performance and productivity. At the forefront o",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
-      "title": "The human work behind humanoid robots is being hidden",
-      "url": "https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/",
-      "source": "MIT Tech Review",
-      "sourceIcon": "🏛️",
-      "type": "research",
-      "timestamp": "2026-02-23T17:05:00.000Z",
-      "abstract": "",
       "authors": [],
       "tags": [],
       "score": 4,

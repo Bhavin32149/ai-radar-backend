@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-11T12:38:46.554Z",
+  "generatedAt": "2026-03-11T13:59:36.567Z",
   "date": "09-03-2026",
-  "count": 25,
+  "count": 26,
   "summary": null,
   "items": [
     {
@@ -428,7 +428,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 130184,
+      "stars": 130198,
       "votes": 0,
       "points": 0
     },
@@ -535,6 +535,32 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.08075",
+      "title": "TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery",
+      "url": "https://huggingface.co/papers/2603.08075",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-09T04:14:58.000Z",
+      "abstract": "On-the-fly category discovery (OCD) aims to recognize known categories while simultaneously discovering novel ones from an unlabeled online stream, using a model trained only on labeled data. Existing",
+      "authors": [
+        "Yanan Wu",
+        "Yuhan Yan",
+        "Tailai Chen",
+        "Zhixiang Chi",
+        "ZiZhang Wu"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "gh_655806940",
       "title": "microsoft/generative-ai-for-beginners — 21 Lessons, Get Started Building with Generative AI",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
@@ -561,7 +587,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 107825,
+      "stars": 107832,
       "votes": 0,
       "points": 0
     }

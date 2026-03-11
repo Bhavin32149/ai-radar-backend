@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-11T12:38:46.553Z",
+  "generatedAt": "2026-03-11T13:59:36.565Z",
   "date": "10-03-2026",
-  "count": 82,
+  "count": 77,
   "summary": null,
   "items": [
     {
@@ -1219,26 +1219,6 @@
       "points": 0
     },
     {
-      "id": "ars_technica_https%3A%2F%2Farstechnica.com%2Fscience%",
-      "title": "Ig Nobels ceremony moves to Europe over security concerns",
-      "url": "https://arstechnica.com/science/2026/03/ig-nobels-ceremony-moves-to-europe-over-security-concerns/",
-      "source": "Ars Technica",
-      "sourceIcon": "🔶",
-      "type": "news",
-      "timestamp": "2026-03-10T14:05:51.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fpodcast",
       "title": "The twist in the Ticketmaster antitrust fight",
       "url": "https://www.theverge.com/podcast/892021/ticketmaster-antitrust-anthropic-pentagon-vergecast",
@@ -1388,48 +1368,6 @@
       "points": 0
     },
     {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Ftech%2F",
-      "title": "Google’s Gemini AI is getting a bigger role across Docs, Sheets, and Slides",
-      "url": "https://www.theverge.com/tech/890996/google-workspace-gemini-ai-docs-sheets-drive",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-03-10T13:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "gemini"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Ftech%2F",
-      "title": "You can now ask Photoshop’s AI assistant to edit images for you",
-      "url": "https://www.theverge.com/tech/891998/adobe-photoshop-web-mobile-ai-assistant-beta-launch",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-03-10T13:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2603.09906",
       "title": "Thinking to Recall: How Reasoning Unlocks Parametric Knowledge in LLMs",
       "url": "https://huggingface.co/papers/2603.09906",
@@ -1508,29 +1446,6 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1rpw17y",
-      "title": "Ryzen AI Max 395+ 128GB - Qwen 3.5 35B/122B Benchmarks (100k-250K Context) + Others (MoE)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rpw17y/ryzen_ai_max_395_128gb_qwen_35_35b122b_benchmarks/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-10T12:49:46+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "qwen",
-        "benchmark"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2603.09881",
       "title": "Do What I Say: A Spoken Prompt Dataset for Instruction-Following",
       "url": "https://huggingface.co/papers/2603.09881",
@@ -1578,28 +1493,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_MachineLearning_t3_1rpvbrt",
-      "title": "[R] Dynin-Omni: masked diffusion-based omnimodal foundation model",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1rpvbrt/r_dyninomni_masked_diffusionbased_omnimodal/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "model",
-      "timestamp": "2026-03-10T12:16:46+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -1672,6 +1565,30 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.09555",
+      "title": "Compiler-First State Space Duality and Portable O(1) Autoregressive Caching for Inference",
+      "url": "https://huggingface.co/papers/2603.09555",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-10T08:03:00.000Z",
+      "abstract": "State-space model releases are typically coupled to fused CUDA and Triton kernels, inheriting a hard dependency on NVIDIA hardware. We show that Mamba-2's state space duality algorithm -- diagonal sta",
+      "authors": [
+        "Cosmo Santoni"
+      ],
+      "tags": [
+        "inference"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -1812,31 +1729,6 @@
         "Chengsong Huang",
         "Xiyang Wu",
         "Lantao Yu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.09200",
-      "title": "The Reasoning Trap -- Logical Reasoning as a Mechanistic Pathway to Situational Awareness",
-      "url": "https://huggingface.co/papers/2603.09200",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-10T01:18:48.000Z",
-      "abstract": "Situational awareness, the capacity of an AI system to recognize its own nature, understand its training and deployment context, and reason strategically about its circumstances, is widely considered",
-      "authors": [
-        "Subramanyam Sahoo",
-        "Aman Chadha",
-        "Vinija Jain",
-        "Divya Chaudhary"
       ],
       "tags": [],
       "score": 6,

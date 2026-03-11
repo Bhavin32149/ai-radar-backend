@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-11T12:38:46.557Z",
+  "generatedAt": "2026-03-11T13:59:36.568Z",
   "date": "06-03-2026",
-  "count": 11,
+  "count": 9,
   "summary": null,
   "items": [
     {
@@ -111,35 +111,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.06577",
-      "title": "Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion",
-      "url": "https://huggingface.co/papers/2603.06577",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-06T13:59:57.000Z",
-      "abstract": "While recent multimodal large language models (MLLMs) have made impressive strides, they predominantly employ a conventional autoregressive architecture as their backbone, leaving significant room to",
-      "authors": [
-        "Lijiang Li",
-        "Zuwei Long",
-        "Yunhang Shen",
-        "Heting Gao",
-        "Haoyu Cao"
-      ],
-      "tags": [
-        "diffusion",
-        "multimodal"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
       "title": "Scaling intelligent automation without breaking live workflows",
       "url": "https://www.artificialintelligence-news.com/news/scaling-intelligent-automation-without-breaking-live-workflows/",
@@ -193,33 +164,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.06333",
-      "title": "SAHOO: Safeguarded Alignment for High-Order Optimization Objectives in Recursive Self-Improvement",
-      "url": "https://huggingface.co/papers/2603.06333",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-06T09:44:51.000Z",
-      "abstract": "Recursive self-improvement is moving from theory to practice: modern systems can critique, revise, and evaluate their own outputs, yet iterative self-modification risks subtle alignment drift. We intr",
-      "authors": [
-        "Subramanyam Sahoo",
-        "Aman Chadha",
-        "Vinija Jain",
-        "Divya Chaudhary"
-      ],
-      "tags": [
-        "alignment"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
