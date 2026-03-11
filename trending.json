@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-03-11T05:49:23.736Z",
+  "trending": [
+    {
+      "tag": "Gemini",
+      "count": 18
+    },
+    {
+      "tag": "Llm",
+      "count": 14
+    },
+    {
+      "tag": "Ai Agents",
+      "count": 12
+    },
+    {
+      "tag": "Claude",
+      "count": 10
+    },
+    {
+      "tag": "Agent",
+      "count": 9
+    },
+    {
+      "tag": "Inference",
+      "count": 9
+    },
+    {
+      "tag": "Python",
+      "count": 8
+    },
+    {
+      "tag": "Llama",
+      "count": 8
+    },
+    {
+      "tag": "Gpt",
+      "count": 6
+    },
+    {
+      "tag": "Diffusion Models",
+      "count": 6
+    }
+  ]
+}

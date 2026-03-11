@@ -1,0 +1,21 @@
+{
+  "lastUpdated": "2026-03-11T05:49:24.065Z",
+  "todayCount": 130,
+  "highCount": 49,
+  "mediumCount": 46,
+  "topTrending": [
+    {
+      "tag": "Gemini",
+      "count": 18
+    },
+    {
+      "tag": "Llm",
+      "count": 14
+    },
+    {
+      "tag": "Ai Agents",
+      "count": 12
+    }
+  ],
+  "version": "2.0.0"
+}
