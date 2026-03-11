@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-11T18:42:21.305Z",
+  "generatedAt": "2026-03-11T19:36:30.311Z",
   "trending": [
     {
       "tag": "Agent",
-      "count": 28
+      "count": 29
     },
     {
       "tag": "Ai Agents",
@@ -18,12 +18,12 @@
       "count": 20
     },
     {
-      "tag": "Claude",
+      "tag": "Gpt",
       "count": 16
     },
     {
-      "tag": "Gpt",
-      "count": 14
+      "tag": "Claude",
+      "count": 16
     },
     {
       "tag": "Inference",
@@ -31,14 +31,14 @@
     },
     {
       "tag": "Reasoning",
-      "count": 12
+      "count": 11
+    },
+    {
+      "tag": "Llama",
+      "count": 9
     },
     {
       "tag": "Python",
-      "count": 8
-    },
-    {
-      "tag": "Open Source",
       "count": 8
     }
   ]
