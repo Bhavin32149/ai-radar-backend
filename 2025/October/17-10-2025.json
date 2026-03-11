@@ -1,0 +1,31 @@
+{
+  "generatedAt": "2026-03-11T09:33:55.564Z",
+  "date": "17-10-2025",
+  "count": 1,
+  "summary": null,
+  "items": [
+    {
+      "id": "meta_ai_blog_https%3A%2F%2Fengineering.fb.com%2F2025%",
+      "title": "Scaling LLM Inference: Innovations in Tensor Parallelism, Context Parallelism, and Expert Parallelism",
+      "url": "https://engineering.fb.com/2025/10/17/ai-research/scaling-llm-inference-innovations-tensor-parallelism-context-parallelism-expert-parallelism/",
+      "source": "Meta AI Blog",
+      "sourceIcon": "🔷",
+      "type": "news",
+      "timestamp": "2025-10-17T16:00:50.000Z",
+      "abstract": "At Meta, we are constantly pushing the boundaries of LLM inference systems to power applications such as the Meta AI App. We&#8217;re sharing how we developed and implemented advanced parallelism tech",
+      "authors": [],
+      "tags": [
+        "llm",
+        "inference"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    }
+  ]
+}

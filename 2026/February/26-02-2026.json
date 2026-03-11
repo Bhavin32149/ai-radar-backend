@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-03-11T09:33:55.548Z",
+  "date": "26-02-2026",
+  "count": 2,
+  "summary": null,
+  "items": [
+    {
+      "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fn",
+      "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+      "url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+      "source": "Google DeepMind",
+      "sourceIcon": "🔵",
+      "type": "research",
+      "timestamp": "2026-02-26T16:01:50.000Z",
+      "abstract": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
+      "title": "Finding value with AI and Industry 5.0 transformation",
+      "url": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
+      "source": "MIT Tech Review",
+      "sourceIcon": "🏛️",
+      "type": "research",
+      "timestamp": "2026-02-26T15:00:59.000Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    }
+  ]
+}

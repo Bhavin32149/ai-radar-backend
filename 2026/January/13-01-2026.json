@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-03-11T09:33:55.562Z",
+  "date": "13-01-2026",
+  "count": 1,
+  "summary": null,
+  "items": [
+    {
+      "id": "venturebeat_ai_https%3A%2F%2Fventurebeat.com%2Ftechnolo",
+      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+      "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+      "source": "VentureBeat AI",
+      "sourceIcon": "📰",
+      "type": "news",
+      "timestamp": "2026-01-13T13:00:00.000Z",
+      "abstract": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company&#x27;s workplace assistant, transforming it from a simple notification tool into what executives describe as a fully",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    }
+  ]
+}

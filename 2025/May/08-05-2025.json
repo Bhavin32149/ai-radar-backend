@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-03-11T09:33:55.568Z",
+  "date": "08-05-2025",
+  "count": 1,
+  "summary": null,
+  "items": [
+    {
+      "id": "meta_ai_blog_https%3A%2F%2Fengineering.fb.com%2F2025%",
+      "title": "Accelerating GPU indexes in Faiss with NVIDIA cuVS",
+      "url": "https://engineering.fb.com/2025/05/08/data-infrastructure/accelerating-gpu-indexes-in-faiss-with-nvidia-cuvs/",
+      "source": "Meta AI Blog",
+      "sourceIcon": "🔷",
+      "type": "news",
+      "timestamp": "2025-05-08T17:00:22.000Z",
+      "abstract": "Meta and NVIDIA collaborated to accelerate vector search on GPUs by integrating NVIDIA cuVS into Faiss v1.10, Meta’s open source library for similarity search. This new implementation of cuVS will be",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    }
+  ]
+}

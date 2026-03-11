@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-03-11T09:33:55.560Z",
+  "date": "19-01-2026",
+  "count": 1,
+  "summary": null,
+  "items": [
+    {
+      "id": "venturebeat_ai_https%3A%2F%2Fventurebeat.com%2Finfrastr",
+      "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "source": "VentureBeat AI",
+      "sourceIcon": "📰",
+      "type": "news",
+      "timestamp": "2026-01-19T14:00:00.000Z",
+      "abstract": "The artificial intelligence coding revolution comes with a catch: it&#x27;s expensive.Claude Code, Anthropic&#x27;s terminal-based AI agent that can write, debug, and deploy code autonomously, has cap",
+      "authors": [],
+      "tags": [
+        "claude"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    }
+  ]
+}

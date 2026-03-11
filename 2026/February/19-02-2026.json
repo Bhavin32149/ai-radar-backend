@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-03-11T09:33:55.554Z",
+  "date": "19-02-2026",
+  "count": 1,
+  "summary": null,
+  "items": [
+    {
+      "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fg",
+      "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+      "url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+      "source": "Google DeepMind",
+      "sourceIcon": "🔵",
+      "type": "research",
+      "timestamp": "2026-02-19T16:06:14.000Z",
+      "abstract": "3.1 Pro is designed for tasks where a simple answer isn’t enough.",
+      "authors": [],
+      "tags": [
+        "gemini"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    }
+  ]
+}

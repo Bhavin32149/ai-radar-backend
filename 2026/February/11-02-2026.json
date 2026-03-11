@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-03-11T09:33:55.556Z",
+  "date": "11-02-2026",
+  "count": 1,
+  "summary": null,
+  "items": [
+    {
+      "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fs",
+      "title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
+      "url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/",
+      "source": "Google Research",
+      "sourceIcon": "🔍",
+      "type": "research",
+      "timestamp": "2026-02-11T10:34:00.000Z",
+      "abstract": "Algorithms &amp; Theory",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-03-11T09:33:55.563Z",
+  "date": "05-01-2026",
+  "count": 1,
+  "summary": null,
+  "items": [
+    {
+      "id": "venturebeat_ai_https%3A%2F%2Fventurebeat.com%2Ftechnolo",
+      "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
+      "url": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
+      "source": "VentureBeat AI",
+      "sourceIcon": "📰",
+      "type": "news",
+      "timestamp": "2026-01-05T07:45:00.000Z",
+      "abstract": "When the creator of the world&#x27;s most advanced coding agent speaks, Silicon Valley doesn&#x27;t just listen — it takes notes.For the past week, the engineering community has been dissecting a thre",
+      "authors": [],
+      "tags": [
+        "claude"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    }
+  ]
+}

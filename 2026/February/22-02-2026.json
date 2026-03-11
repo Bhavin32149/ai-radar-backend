@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-03-11T09:33:55.553Z",
+  "date": "22-02-2026",
+  "count": 1,
+  "summary": null,
+  "items": [
+    {
+      "id": "siliconangle_ai_https%3A%2F%2Fsiliconangle.com%2F2026%2F",
+      "title": "The AI trust gap: Developers grapple with issues around security, memory, cost and interoperability",
+      "url": "https://siliconangle.com/2026/02/21/ai-trust-gap-developers-grapple-issues-around-security-memory-cost-interoperability/",
+      "source": "SiliconANGLE AI",
+      "sourceIcon": "📐",
+      "type": "news",
+      "timestamp": "2026-02-22T03:24:58.000Z",
+      "abstract": "There&#8217;s a paradox among developers surrounding their use of artificial intelligence today: They&#8217;re willing to use AI, but trust in AI tools has dropped sharply. That was among the findings",
+      "authors": [],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    }
+  ]
+}

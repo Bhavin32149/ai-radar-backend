@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-03-11T09:33:55.566Z",
+  "date": "06-08-2025",
+  "count": 1,
+  "summary": null,
+  "items": [
+    {
+      "id": "meta_ai_blog_https%3A%2F%2Fengineering.fb.com%2F2025%",
+      "title": "Diff Risk Score: AI-driven risk-aware software development",
+      "url": "https://engineering.fb.com/2025/08/06/developer-tools/diff-risk-score-drs-ai-risk-aware-software-development-meta/",
+      "source": "Meta AI Blog",
+      "sourceIcon": "🔷",
+      "type": "news",
+      "timestamp": "2025-08-06T17:50:51.000Z",
+      "abstract": "The state of the research Diff Risk Score (DRS) is an AI-powered technology built at Meta that predicts the likelihood of a code change causing a production incident, also known as a SEV. Built on a f",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    }
+  ]
+}

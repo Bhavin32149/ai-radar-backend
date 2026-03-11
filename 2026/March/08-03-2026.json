@@ -1,0 +1,32 @@
+{
+  "generatedAt": "2026-03-11T09:33:55.544Z",
+  "date": "08-03-2026",
+  "count": 1,
+  "summary": null,
+  "items": [
+    {
+      "id": "hf_paper_2603.07888",
+      "title": "VLM-SubtleBench: How Far Are VLMs from Human-Level Subtle Comparative Reasoning?",
+      "url": "https://huggingface.co/papers/2603.07888",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-08T22:01:02.000Z",
+      "abstract": "The ability to distinguish subtle differences between visually similar images is essential for diverse domains such as industrial anomaly detection, medical imaging, and aerial surveillance. While com",
+      "authors": [
+        "Minkyu Kim",
+        "Sangheon Lee",
+        "Dongmin Park"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    }
+  ]
+}

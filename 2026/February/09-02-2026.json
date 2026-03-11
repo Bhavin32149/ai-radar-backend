@@ -1,0 +1,50 @@
+{
+  "generatedAt": "2026-03-11T09:33:55.557Z",
+  "date": "09-02-2026",
+  "count": 2,
+  "summary": null,
+  "items": [
+    {
+      "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fh",
+      "title": "How AI trained on birds is surfacing underwater mysteries",
+      "url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/",
+      "source": "Google Research",
+      "sourceIcon": "🔍",
+      "type": "research",
+      "timestamp": "2026-02-09T18:38:00.000Z",
+      "abstract": "Climate &amp; Sustainability",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fa",
+      "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+      "url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+      "source": "Google DeepMind",
+      "sourceIcon": "🔵",
+      "type": "research",
+      "timestamp": "2026-02-09T16:12:06.000Z",
+      "abstract": "Research papers point to the growing impact of Deep Think across fields",
+      "authors": [],
+      "tags": [
+        "gemini"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    }
+  ]
+}

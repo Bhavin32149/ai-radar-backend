@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-03-11T09:33:55.566Z",
+  "date": "04-08-2025",
+  "count": 1,
+  "summary": null,
+  "items": [
+    {
+      "id": "meta_ai_blog_https%3A%2F%2Fengineering.fb.com%2F2025%",
+      "title": "Building a human-computer interface for everyone",
+      "url": "https://engineering.fb.com/2025/08/04/virtual-reality/building-a-human-computer-interface-for-everyone-meta-tech-podcast/",
+      "source": "Meta AI Blog",
+      "sourceIcon": "🔷",
+      "type": "news",
+      "timestamp": "2025-08-04T14:00:25.000Z",
+      "abstract": "What if you could control any device using only subtle hand movements? New research from Meta’s Reality Labs is pointing even more firmly toward wrist-worn devices using surface electromyography (sEMG",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    }
+  ]
+}

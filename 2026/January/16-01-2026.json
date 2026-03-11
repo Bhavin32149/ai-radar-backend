@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-03-11T09:33:55.561Z",
+  "date": "16-01-2026",
+  "count": 2,
+  "summary": null,
+  "items": [
+    {
+      "id": "venturebeat_ai_https%3A%2F%2Fventurebeat.com%2Ftechnolo",
+      "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+      "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+      "source": "VentureBeat AI",
+      "sourceIcon": "📰",
+      "type": "news",
+      "timestamp": "2026-01-16T14:01:00.000Z",
+      "abstract": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg&#x27;s $100 million offers seemed impossible. So he spen",
+      "authors": [],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fd",
+      "title": "D4RT: Teaching AI to see the world in four dimensions",
+      "url": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+      "source": "Google DeepMind",
+      "sourceIcon": "🔵",
+      "type": "research",
+      "timestamp": "2026-01-16T10:39:00.000Z",
+      "abstract": "D4RT: Unified, efficient 4D reconstruction and tracking up to 300x faster than prior methods.",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    }
+  ]
+}

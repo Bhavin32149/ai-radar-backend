@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-03-11T09:33:55.565Z",
+  "date": "29-09-2025",
+  "count": 2,
+  "summary": null,
+  "items": [
+    {
+      "id": "meta_ai_blog_https%3A%2F%2Fengineering.fb.com%2F2025%",
+      "title": "Meta 3D AssetGen: Generating 3D Worlds With AI",
+      "url": "https://engineering.fb.com/2025/09/29/virtual-reality/assetgen-generating-3d-worlds-with-ai/",
+      "source": "Meta AI Blog",
+      "sourceIcon": "🔷",
+      "type": "news",
+      "timestamp": "2025-09-29T14:00:42.000Z",
+      "abstract": "Imagine being able to use AI to create 3D virtual worlds using prompts as easily as you can generate images. The intersection of AI and VR was one of the biggest topics at Meta Connect this year. In h",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "meta_ai_blog_https%3A%2F%2Fengineering.fb.com%2F2025%",
+      "title": "Meta’s Infrastructure Evolution and the Advent of AI",
+      "url": "https://engineering.fb.com/2025/09/29/data-infrastructure/metas-infrastructure-evolution-and-the-advent-of-ai/",
+      "source": "Meta AI Blog",
+      "sourceIcon": "🔷",
+      "type": "news",
+      "timestamp": "2025-09-29T13:00:15.000Z",
+      "abstract": "&#160; Over the past 21 years, Meta has grown exponentially from a small social network connecting a few thousand people in a handful of universities in the U.S. into several apps and novel hardware p",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    }
+  ]
+}

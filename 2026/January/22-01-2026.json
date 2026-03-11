@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-03-11T09:33:55.560Z",
+  "date": "22-01-2026",
+  "count": 1,
+  "summary": null,
+  "items": [
+    {
+      "id": "venturebeat_ai_https%3A%2F%2Fventurebeat.com%2Finfrastr",
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "source": "VentureBeat AI",
+      "sourceIcon": "📰",
+      "type": "news",
+      "timestamp": "2026-01-22T14:00:00.000Z",
+      "abstract": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B fundi",
+      "authors": [],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    }
+  ]
+}

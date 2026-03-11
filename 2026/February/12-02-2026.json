@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-03-11T09:33:55.555Z",
+  "date": "12-02-2026",
+  "count": 1,
+  "summary": null,
+  "items": [
+    {
+      "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fg",
+      "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+      "url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+      "source": "Google DeepMind",
+      "sourceIcon": "🔵",
+      "type": "research",
+      "timestamp": "2026-02-12T16:15:09.000Z",
+      "abstract": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
+      "authors": [],
+      "tags": [
+        "gemini"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    }
+  ]
+}

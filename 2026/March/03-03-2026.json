@@ -1,0 +1,172 @@
+{
+  "generatedAt": "2026-03-11T09:33:55.547Z",
+  "date": "03-03-2026",
+  "count": 7,
+  "summary": null,
+  "items": [
+    {
+      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
+      "title": "How to Minimize Game Runtime Inference Costs with Coding Agents",
+      "url": "https://developer.nvidia.com/blog/how-to-minimize-game-runtime-inference-costs-with-coding-agents/",
+      "source": "NVIDIA Blog",
+      "sourceIcon": "🟩",
+      "type": "tool",
+      "timestamp": "2026-03-03T19:49:57.000Z",
+      "abstract": "NVIDIA ACE is a suite of technologies for building AI agents for gaming. ACE provides ready-to-integrate cloud and on-device AI models for every part of in-game...]]>",
+      "authors": [],
+      "tags": [
+        "agent",
+        "inference"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
+      "title": "cuTile.jl Brings NVIDIA CUDA Tile-Based Programming to Julia",
+      "url": "https://developer.nvidia.com/blog/cutile-jl-brings-nvidia-cuda-tile-based-programming-to-julia/",
+      "source": "NVIDIA Blog",
+      "sourceIcon": "🟩",
+      "type": "tool",
+      "timestamp": "2026-03-03T19:48:16.000Z",
+      "abstract": "NVIDIA CUDA Tile is one of the most significant additions to NVIDIA CUDA programming and unlocks automatic access to tensor cores and other specialized...]]>",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2Fg",
+      "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+      "source": "Google DeepMind",
+      "sourceIcon": "🔵",
+      "type": "research",
+      "timestamp": "2026-03-03T16:35:55.000Z",
+      "abstract": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+      "authors": [],
+      "tags": [
+        "gemini"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
+      "title": "Building a scalable virtual try-on solution using Amazon Nova on AWS: part 1",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-a-scalable-virtual-try-on-solution-using-amazon-nova-on-aws-part-1/",
+      "source": "AWS ML Blog",
+      "sourceIcon": "☁️",
+      "type": "tool",
+      "timestamp": "2026-03-03T16:23:30.000Z",
+      "abstract": "In this post, we explore the virtual try-on capability now available in Amazon Nova Canvas, including sample code to get started quickly and tips to help get the best outputs.",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
+      "title": "How Lendi revamped the refinance journey for its customers using agentic AI in 16 weeks using Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-lendi-revamped-the-refinance-journey-for-its-customers-using-agentic-ai-in-12-weeks-using-amazon-bedrock/",
+      "source": "AWS ML Blog",
+      "sourceIcon": "☁️",
+      "type": "tool",
+      "timestamp": "2026-03-03T16:18:30.000Z",
+      "abstract": "This post details how Lendi Group built their AI-powered Home Loan Guardian using Amazon Bedrock, the challenges they faced, the architecture they implemented, and the significant business outcomes th",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.03143",
+      "title": "Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing",
+      "url": "https://huggingface.co/papers/2603.03143",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-03T11:31:10.000Z",
+      "abstract": "Leveraging the priors of 2D diffusion models for 3D editing has emerged as a promising paradigm. However, maintaining multi-view consistency in edited results remains challenging, and the extreme scar",
+      "authors": [
+        "Jiyuan Wang",
+        "Chunyu Lin",
+        "Lei Sun",
+        "Zhi Cao",
+        "Yuyang Yin"
+      ],
+      "tags": [
+        "reinforcement learning"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.02816",
+      "title": "BrandFusion: A Multi-Agent Framework for Seamless Brand Integration in Text-to-Video Generation",
+      "url": "https://huggingface.co/papers/2603.02816",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-03T05:10:41.000Z",
+      "abstract": "The rapid advancement of text-to-video (T2V) models has revolutionized content creation, yet their commercial potential remains largely untapped. We introduce, for the first time, the task of seamless",
+      "authors": [
+        "Zihao Zhu",
+        "Ruotong Wang",
+        "Siwei Lyu",
+        "Min Zhang",
+        "Baoyuan Wu"
+      ],
+      "tags": [
+        "agent",
+        "text-to-video"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    }
+  ]
+}

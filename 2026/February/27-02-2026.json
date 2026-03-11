@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-03-11T09:33:55.548Z",
+  "date": "27-02-2026",
+  "count": 1,
+  "summary": null,
+  "items": [
+    {
+      "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
+      "title": "AI is rewiring how the world’s best Go players think",
+      "url": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
+      "source": "MIT Tech Review",
+      "sourceIcon": "🏛️",
+      "type": "research",
+      "timestamp": "2026-02-27T10:00:00.000Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    }
+  ]
+}

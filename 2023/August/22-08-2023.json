@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-03-11T09:33:55.570Z",
+  "date": "22-08-2023",
+  "count": 1,
+  "summary": null,
+  "items": [
+    {
+      "id": "hn_37222930",
+      "title": "Show HN: UpTrain (YC W23) – open-source tool to evaluate LLM response quality",
+      "url": "https://demo.uptrain.ai/evals_demo/",
+      "source": "Hacker News",
+      "sourceIcon": "⚡",
+      "type": "model",
+      "timestamp": "2023-08-22T14:08:00Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 12
+    }
+  ]
+}

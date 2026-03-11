@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-03-11T09:33:55.558Z",
+  "date": "03-02-2026",
+  "count": 1,
+  "summary": null,
+  "items": [
+    {
+      "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fc",
+      "title": "Collaborating on a nationwide randomized study of AI in real-world virtual care",
+      "url": "https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care/",
+      "source": "Google Research",
+      "sourceIcon": "🔍",
+      "type": "research",
+      "timestamp": "2026-02-03T18:15:01.000Z",
+      "abstract": "Generative AI",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    }
+  ]
+}

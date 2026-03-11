@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-03-11T09:33:55.567Z",
+  "date": "16-07-2025",
+  "count": 1,
+  "summary": null,
+  "items": [
+    {
+      "id": "meta_ai_blog_https%3A%2F%2Fengineering.fb.com%2F2025%",
+      "title": "Using AI to make lower-carbon, faster-curing concrete",
+      "url": "https://engineering.fb.com/2025/07/16/data-center-engineering/ai-make-lower-carbon-faster-curing-concrete/",
+      "source": "Meta AI Blog",
+      "sourceIcon": "🔷",
+      "type": "news",
+      "timestamp": "2025-07-16T12:00:16.000Z",
+      "abstract": "Meta has developed an open-source AI tool to design concrete mixes that are stronger, more sustainable, and ready to build with faster—speeding up construction while reducing environmental impact. The",
+      "authors": [],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    }
+  ]
+}
