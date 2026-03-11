@@ -25,7 +25,7 @@ export async function generateSummary(items, isFirstRunOfDay) {
 
   try {
     const genAI = new GoogleGenerativeAI(apiKey);
-    const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+    const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash-lite" });
 
     const prompt = `You are an AI news analyst. Based on these top AI news items, write a concise daily summary in exactly 5 bullet points. Each bullet should be one clear sentence highlighting the most important development. Focus on what matters for AI researchers, developers and enthusiasts.
 
