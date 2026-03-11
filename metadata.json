@@ -1,8 +1,21 @@
 {
-  "lastUpdated": "2026-03-11T06:06:53.493Z",
-  "todayCount": 0,
-  "highCount": 0,
-  "mediumCount": 0,
-  "topTrending": [],
+  "lastUpdated": "2026-03-11T06:18:28.735Z",
+  "todayCount": 139,
+  "highCount": 59,
+  "mediumCount": 46,
+  "topTrending": [
+    {
+      "tag": "Gemini",
+      "count": 18
+    },
+    {
+      "tag": "Llm",
+      "count": 15
+    },
+    {
+      "tag": "Gpt",
+      "count": 12
+    }
+  ],
   "version": "2.0.0"
 }
