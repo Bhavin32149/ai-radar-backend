@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-11T11:53:44.469Z",
+  "generatedAt": "2026-03-11T12:38:46.557Z",
   "date": "06-03-2026",
-  "count": 12,
+  "count": 11,
   "summary": null,
   "items": [
     {
@@ -188,26 +188,6 @@
       "type": "news",
       "timestamp": "2026-03-06T10:00:00.000Z",
       "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "The firm that never forgets: Rowspace launches with $50M to make AI for private equity actually work",
-      "url": "https://www.artificialintelligence-news.com/news/rowspace-50m-ai-private-equity-sequoia-emergence/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-03-06T10:00:00.000Z",
-      "abstract": "Private equity runs on judgment–and judgment, it turns out, is extraordinarily hard to scale. Decades of deal memos, underwriting models, partner notes, and portfolio data are scattered across systems",
       "authors": [],
       "tags": [],
       "score": 8,
