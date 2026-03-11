@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-11T10:30:24.055Z",
+  "generatedAt": "2026-03-11T11:26:49.726Z",
   "date": "06-03-2026",
-  "count": 11,
+  "count": 12,
   "summary": null,
   "items": [
     {
@@ -80,6 +80,30 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.06854",
+      "title": "Are Audio-Language Models Listening? Audio-Specialist Heads for Adaptive Audio Steering",
+      "url": "https://huggingface.co/papers/2603.06854",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-06T15:18:30.000Z",
+      "abstract": "Multimodal large language models can exhibit text dominance, over-relying on linguistic priors instead of grounding predictions in non-text inputs. One example is large audio-language models (LALMs) w",
+      "authors": [
+        "Neta Glazer",
+        "Lenny Aharon",
+        "Ethan Fetaya"
+      ],
+      "tags": [],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

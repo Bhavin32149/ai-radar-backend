@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-11T10:30:24.053Z",
+  "generatedAt": "2026-03-11T11:26:49.724Z",
   "date": "09-03-2026",
-  "count": 27,
+  "count": 26,
   "summary": null,
   "items": [
     {
@@ -389,32 +389,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.08648",
-      "title": "CAST: Modeling Visual State Transitions for Consistent Video Retrieval",
-      "url": "https://huggingface.co/papers/2603.08648",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-09T13:26:26.000Z",
-      "abstract": "As video content creation shifts toward long-form narratives, composing short clips into coherent storylines becomes increasingly important. However, prevailing retrieval formulations remain context-a",
-      "authors": [
-        "Yanqing Liu",
-        "Yingcheng Liu",
-        "Fanghong Dong",
-        "Budianto Budianto",
-        "Cihang Xie"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fi-visite",
       "title": "I Visited the ‘Freedom Truck’ to Meet PragerU’s AI Slop Founders",
       "url": "https://www.404media.co/i-visited-the-freedom-truck-to-meet-pragerus-ai-slop-founders/",
@@ -483,7 +457,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 130166,
+      "stars": 130173,
       "votes": 0,
       "points": 0
     },
@@ -616,7 +590,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 107819,
+      "stars": 107821,
       "votes": 0,
       "points": 0
     }

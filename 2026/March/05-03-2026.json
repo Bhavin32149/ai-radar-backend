@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-11T10:30:24.056Z",
+  "generatedAt": "2026-03-11T11:26:49.726Z",
   "date": "05-03-2026",
-  "count": 12,
+  "count": 11,
   "summary": null,
   "items": [
     {
@@ -227,34 +227,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.04893",
-      "title": "Free Lunch for Pass@k? Low Cost Diverse Sampling for Diffusion Language Models",
-      "url": "https://huggingface.co/papers/2603.04893",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-05T02:35:07.000Z",
-      "abstract": "Diverse outputs in text generation are necessary for effective exploration in complex reasoning tasks, such as code generation and mathematical problem solving. Such Pass@k problems benefit from disti",
-      "authors": [
-        "Sean Lamont",
-        "Christian Walder",
-        "Paul Montague",
-        "Amir Dezfouli",
-        "Michael Norrish"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

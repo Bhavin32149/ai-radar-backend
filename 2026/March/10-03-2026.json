@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-11T10:30:24.051Z",
+  "generatedAt": "2026-03-11T11:26:49.723Z",
   "date": "10-03-2026",
-  "count": 80,
+  "count": 81,
   "summary": null,
   "items": [
     {
@@ -159,6 +159,28 @@
       "tags": [
         "llama",
         "deepseek"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "reddit_LocalLLaMA_t3_1rq8l0x",
+      "title": "What tokens/sec do you get when running Qwen 3.5 27B?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rq8l0x/what_tokenssec_do_you_get_when_running_qwen_35_27b/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "news",
+      "timestamp": "2026-03-10T20:34:02+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "qwen"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -1581,26 +1603,6 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1rptdpl",
-      "title": "Fish Audio Releases S2: open-source, controllable and expressive TTS model",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rptdpl/fish_audio_releases_s2_opensource_controllable/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "model",
-      "timestamp": "2026-03-10T10:34:03+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fnew-w",
       "title": "New ways to learn math and science in ChatGPT",
       "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
@@ -1734,6 +1736,32 @@
         "rag",
         "agent"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.09400",
+      "title": "Reward Prediction with Factorized World States",
+      "url": "https://huggingface.co/papers/2603.09400",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-10T05:12:20.000Z",
+      "abstract": "Agents must infer action outcomes and select actions that maximize a reward signal indicating how close the goal is to being reached. Supervised learning of reward models could introduce biases inhere",
+      "authors": [
+        "Yijun Shen",
+        "Delong Chen",
+        "Xianming Hu",
+        "Jiaming Mi",
+        "Hongbo Zhao"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
