@@ -310,7 +310,7 @@ async function fetchOpenAIBlog() {
 }
 
 async function fetchAnthropicBlog() {
-  return fetchRSSBlog("https://www.anthropic.com/index/feed.xml", "Anthropic Blog", "🟣", "news");
+  return fetchRSSBlog("https://news.mit.edu/topic/artificial-intelligence2", "MIT AI News", "🎓", "research");
 }
 
 async function fetchDeepMindBlog() {
