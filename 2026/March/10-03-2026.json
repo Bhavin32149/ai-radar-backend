@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-11T21:54:23.243Z",
+  "generatedAt": "2026-03-11T22:19:37.995Z",
   "date": "10-03-2026",
-  "count": 45,
+  "count": 43,
   "summary": null,
   "items": [
     {
@@ -142,26 +142,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F03",
-      "title": "AI-powered apps struggle with long-term retention, new report shows",
-      "url": "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
-      "source": "TechCrunch AI",
-      "sourceIcon": "💚",
-      "type": "news",
-      "timestamp": "2026-03-10T18:42:33.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -413,28 +393,6 @@
         "Jessica Hoffmann"
       ],
       "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F03",
-      "title": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
-      "url": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
-      "source": "TechCrunch AI",
-      "sourceIcon": "💚",
-      "type": "news",
-      "timestamp": "2026-03-10T17:51:25.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "gpt"
-      ],
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
