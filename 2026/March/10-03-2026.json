@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-11T20:25:41.666Z",
+  "generatedAt": "2026-03-11T21:27:03.424Z",
   "date": "10-03-2026",
-  "count": 50,
+  "count": 46,
   "summary": null,
   "items": [
     {
@@ -87,73 +87,6 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1rq8otd",
-      "title": "Running DeepSeek V3.2 with dense attention (like in llama.cpp) makes it a bit dumber",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rq8otd/running_deepseek_v32_with_dense_attention_like_in/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "model",
-      "timestamp": "2026-03-10T20:37:37+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "llama",
-        "deepseek"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rq8l0x",
-      "title": "What tokens/sec do you get when running Qwen 3.5 27B?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rq8l0x/what_tokenssec_do_you_get_when_running_qwen_35_27b/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-10T20:34:02+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "qwen"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rq8ijl",
-      "title": "I regret ever finding LocalLLaMA",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rq8ijl/i_regret_ever_finding_localllama/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-10T20:31:29+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "llama"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "NVIDIA AI Releases Nemotron-Terminal: A Systematic Data Engineering Pipeline for Scaling LLM Terminal Agents",
       "url": "https://www.marktechpost.com/2026/03/10/nvidia-ai-releases-nemotron-terminal-a-systematic-data-engineering-pipeline-for-scaling-llm-terminal-agents/",
@@ -187,28 +120,6 @@
       "abstract": "",
       "authors": [],
       "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rq7jtm",
-      "title": "Qwen3.5-35B-A3B Uncensored (Aggressive) — GGUF Release",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rq7jtm/qwen3535ba3b_uncensored_aggressive_gguf_release/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-10T19:57:30+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "qwen"
-      ],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",

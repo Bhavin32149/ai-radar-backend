@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-11T20:25:41.671Z",
+  "generatedAt": "2026-03-11T21:27:03.428Z",
   "date": "03-03-2026",
-  "count": 6,
+  "count": 5,
   "summary": null,
   "items": [
     {
@@ -62,28 +62,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "How Lendi revamped the refinance journey for its customers using agentic AI in 16 weeks using Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-lendi-revamped-the-refinance-journey-for-its-customers-using-agentic-ai-in-12-weeks-using-amazon-bedrock/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-03-03T16:18:30.000Z",
-      "abstract": "This post details how Lendi Group built their AI-powered Home Loan Guardian using Amazon Bedrock, the challenges they faced, the architecture they implemented, and the significant business outcomes th",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
