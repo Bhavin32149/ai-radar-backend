@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-12T07:27:08.372Z",
+  "generatedAt": "2026-03-12T08:00:43.945Z",
   "trending": [
     {
       "tag": "Agent",
-      "count": 31
+      "count": 33
     },
     {
       "tag": "Llm",
@@ -11,7 +11,7 @@
     },
     {
       "tag": "Ai Agents",
-      "count": 23
+      "count": 24
     },
     {
       "tag": "Gemini",
@@ -19,7 +19,7 @@
     },
     {
       "tag": "Claude",
-      "count": 17
+      "count": 16
     },
     {
       "tag": "Inference",
@@ -38,8 +38,8 @@
       "count": 8
     },
     {
-      "tag": "Reasoning",
-      "count": 7
+      "tag": "Rag",
+      "count": 6
     }
   ]
 }
