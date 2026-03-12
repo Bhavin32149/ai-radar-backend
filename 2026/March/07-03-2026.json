@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-12T06:09:09.054Z",
+  "generatedAt": "2026-03-12T07:27:08.628Z",
   "date": "07-03-2026",
-  "count": 3,
+  "count": 2,
   "summary": null,
   "items": [
     {
@@ -29,32 +29,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_793375104",
-      "title": "Shubhamsaboo/awesome-llm-apps — Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-03-07T19:29:22Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "agents",
-        "llms",
-        "python",
-        "rag",
-        "Python"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 101676,
       "votes": 0,
       "points": 0
     },

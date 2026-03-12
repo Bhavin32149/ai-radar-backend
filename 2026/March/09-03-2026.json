@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-12T06:09:09.053Z",
+  "generatedAt": "2026-03-12T07:27:08.627Z",
   "date": "09-03-2026",
-  "count": 21,
+  "count": 22,
   "summary": null,
   "items": [
     {
@@ -348,7 +348,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 130311,
+      "stars": 130325,
       "votes": 0,
       "points": 0
     },
@@ -441,6 +441,34 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.08068",
+      "title": "In-Context Reinforcement Learning for Tool Use in Large Language Models",
+      "url": "https://huggingface.co/papers/2603.08068",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-09T04:06:18.000Z",
+      "abstract": "While large language models (LLMs) exhibit strong reasoning abilities, their performance on complex tasks is often constrained by the limitations of their internal knowledge. A compelling approach to",
+      "authors": [
+        "Yaoqi Ye",
+        "Yiran Zhao",
+        "Keyu Duan",
+        "Zeyu Zheng",
+        "Kenji Kawaguchi"
+      ],
+      "tags": [
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "gh_655806940",
       "title": "microsoft/generative-ai-for-beginners — 21 Lessons, Get Started Building with Generative AI",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
@@ -467,7 +495,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 107858,
+      "stars": 107864,
       "votes": 0,
       "points": 0
     }

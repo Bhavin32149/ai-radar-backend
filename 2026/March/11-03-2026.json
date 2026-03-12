@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-12T06:09:09.051Z",
+  "generatedAt": "2026-03-12T07:27:08.625Z",
   "date": "11-03-2026",
-  "count": 94,
+  "count": 92,
   "summary": null,
   "items": [
     {
@@ -31,7 +31,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 126811,
+      "stars": 126814,
       "votes": 0,
       "points": 0
     },
@@ -84,7 +84,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 178761,
+      "stars": 178762,
       "votes": 0,
       "points": 0
     },
@@ -297,7 +297,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 164891,
+      "stars": 164885,
       "votes": 0,
       "points": 0
     },
@@ -318,37 +318,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_155220641",
-      "title": "huggingface/transformers — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text",
-      "url": "https://github.com/huggingface/transformers",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-03-11T21:37:02Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "audio",
-        "deep-learning",
-        "deepseek",
-        "gemma",
-        "glm",
-        "hacktoberfest",
-        "llm",
-        "machine-learning",
-        "model-hub",
-        "natural-language-processing"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 157765,
       "votes": 0,
       "points": 0
     },
@@ -2042,28 +2011,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rqlaw4",
-      "title": "New benchmark just dropped.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rqlaw4/new_benchmark_just_dropped/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "research",
-      "timestamp": "2026-03-11T05:35:32+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
