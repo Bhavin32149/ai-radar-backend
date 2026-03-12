@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-12T16:51:24.596Z",
+  "generatedAt": "2026-03-12T17:42:26.339Z",
   "date": "10-03-2026",
-  "count": 23,
+  "count": 24,
   "summary": null,
   "items": [
     {
@@ -86,6 +86,32 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.10256",
+      "title": "ID-LoRA: Identity-Driven Audio-Video Personalization with In-Context LoRA",
+      "url": "https://huggingface.co/papers/2603.10256",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-10T18:23:36.000Z",
+      "abstract": "Existing video personalization methods preserve visual likeness but treat video and audio separately. Without access to the visual scene, audio models cannot synchronize sounds with on-screen actions;",
+      "authors": [
+        "Aviad Dahan",
+        "Moran Yanuka",
+        "Noa Kraicer",
+        "Lior Wolf",
+        "Raja Giryes"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

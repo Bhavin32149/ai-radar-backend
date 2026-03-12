@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-12T16:51:24.597Z",
+  "generatedAt": "2026-03-12T17:42:26.340Z",
   "date": "09-03-2026",
-  "count": 19,
+  "count": 17,
   "summary": null,
   "items": [
     {
@@ -256,28 +256,6 @@
       "points": 0
     },
     {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fi-visite",
-      "title": "I Visited the ‘Freedom Truck’ to Meet PragerU’s AI Slop Founders",
-      "url": "https://www.404media.co/i-visited-the-freedom-truck-to-meet-pragerus-ai-slop-founders/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-03-09T13:26:08.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "rag"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
       "title": "AI insurance underwriting is past the pitch deck—Gradient AI just got the capital to prove it",
       "url": "https://www.artificialintelligence-news.com/news/gradient-ai-cibc-ai-insurance-underwriting-growth-capital/",
@@ -324,35 +302,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 130435,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.08561",
-      "title": "RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback",
-      "url": "https://huggingface.co/papers/2603.08561",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-09T12:23:33.000Z",
-      "abstract": "Large language model (LLM)-based agents trained with reinforcement learning (RL) have shown strong potential on complex interactive tasks. However, standard RL paradigms favor static problem-solving o",
-      "authors": [
-        "Xiaoying Zhang",
-        "Zichen Liu",
-        "Yipeng Zhang",
-        "Xia Hu",
-        "Wenqi Shao"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
+      "stars": 130440,
       "votes": 0,
       "points": 0
     },
@@ -431,7 +381,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 107882,
+      "stars": 107883,
       "votes": 0,
       "points": 0
     }

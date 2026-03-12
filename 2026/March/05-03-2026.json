@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-12T16:51:24.600Z",
+  "generatedAt": "2026-03-12T17:42:26.341Z",
   "date": "05-03-2026",
-  "count": 5,
+  "count": 4,
   "summary": null,
   "items": [
     {
@@ -24,26 +24,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
-      "title": "Tuning Flash Attention for Peak Performance in NVIDIA CUDA Tile",
-      "url": "https://developer.nvidia.com/blog/tuning-flash-attention-for-peak-performance-in-nvidia-cuda-tile/",
-      "source": "NVIDIA Blog",
-      "sourceIcon": "🟩",
-      "type": "tool",
-      "timestamp": "2026-03-05T17:00:00.000Z",
-      "abstract": "In this post, we dive into one of the most critical workloads in modern AI: Flash Attention, where you’ll learn: How to implement Flash Attention using NVIDIA...]]>",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

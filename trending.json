@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-12T16:51:24.309Z",
+  "generatedAt": "2026-03-12T17:42:26.074Z",
   "trending": [
     {
       "tag": "Agent",
-      "count": 35
+      "count": 33
     },
     {
       "tag": "Ai Agents",
@@ -11,15 +11,11 @@
     },
     {
       "tag": "Gemini",
-      "count": 24
+      "count": 26
     },
     {
       "tag": "Llm",
       "count": 24
-    },
-    {
-      "tag": "Fill-Mask",
-      "count": 22
     },
     {
       "tag": "Claude",
@@ -30,16 +26,20 @@
       "count": 12
     },
     {
-      "tag": "Transformers",
+      "tag": "Gpt",
       "count": 11
     },
     {
-      "tag": "Safetensors",
-      "count": 11
+      "tag": "Llama",
+      "count": 10
     },
     {
-      "tag": "Custom_code",
-      "count": 11
+      "tag": "Python",
+      "count": 8
+    },
+    {
+      "tag": "Embeddings",
+      "count": 6
     }
   ]
 }
