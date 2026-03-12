@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-12T03:42:42.653Z",
+  "generatedAt": "2026-03-12T05:12:03.055Z",
   "date": "09-03-2026",
-  "count": 24,
+  "count": 22,
   "summary": null,
   "items": [
     {
@@ -259,30 +259,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.08806",
-      "title": "Test-Driven AI Agent Definition (TDAD): Compiling Tool-Using Agents from Behavioral Specifications",
-      "url": "https://huggingface.co/papers/2603.08806",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-09T14:04:54.000Z",
-      "abstract": "We present Test-Driven AI Agent Definition (TDAD), a methodology that treats agent prompts as compiled artifacts: engineers provide behavioral specifications, a coding agent converts them into executa",
-      "authors": [
-        "Tzafrir Rehan"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "google_deepmind_https%3A%2F%2Fdeepmind.google%2Fblog%2F1",
       "title": "From games to biology and beyond: 10 years of AlphaGo’s impact",
       "url": "https://deepmind.google/blog/10-years-of-alphago/",
@@ -395,7 +371,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 130281,
+      "stars": 130307,
       "votes": 0,
       "points": 0
     },
@@ -488,32 +464,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.08075",
-      "title": "TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery",
-      "url": "https://huggingface.co/papers/2603.08075",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-09T04:14:58.000Z",
-      "abstract": "On-the-fly category discovery (OCD) aims to recognize known categories while simultaneously discovering novel ones from an unlabeled online stream, using a model trained only on labeled data. Existing",
-      "authors": [
-        "Yanan Wu",
-        "Yuhan Yan",
-        "Tailai Chen",
-        "Zhixiang Chi",
-        "ZiZhang Wu"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "gh_655806940",
       "title": "microsoft/generative-ai-for-beginners — 21 Lessons, Get Started Building with Generative AI",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
@@ -540,7 +490,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 107853,
+      "stars": 107857,
       "votes": 0,
       "points": 0
     }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T03:42:42.652Z",
+  "generatedAt": "2026-03-12T05:12:03.054Z",
   "date": "10-03-2026",
   "count": 24,
   "summary": null,
@@ -218,6 +218,34 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.10160",
+      "title": "ReMix: Reinforcement routing for mixtures of LoRAs in LLM finetuning",
+      "url": "https://huggingface.co/papers/2603.10160",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-10T14:51:27.000Z",
+      "abstract": "Low-rank adapters (LoRAs) are a parameter-efficient finetuning technique that injects trainable low-rank matrices into pretrained models to adapt them to new tasks. Mixture-of-LoRAs models expand neur",
+      "authors": [
+        "Ruizhong Qiu",
+        "Hanqing Zeng",
+        "Yinglong Xia",
+        "Yiwen Meng",
+        "Ren Chen"
+      ],
+      "tags": [
+        "llm"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2603.10101",
       "title": "CLIPO: Contrastive Learning in Policy Optimization Generalizes RLVR",
       "url": "https://huggingface.co/papers/2603.10101",
@@ -333,22 +361,24 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.09881",
-      "title": "Do What I Say: A Spoken Prompt Dataset for Instruction-Following",
-      "url": "https://huggingface.co/papers/2603.09881",
+      "id": "hf_paper_2603.09827",
+      "title": "MA-EgoQA: Question Answering over Egocentric Videos from Multiple Embodied Agents",
+      "url": "https://huggingface.co/papers/2603.09827",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-03-10T12:39:46.000Z",
-      "abstract": "Speech Large Language Models (SLLMs) have rapidly expanded, supporting a wide range of tasks. These models are typically evaluated using text prompts, which may not reflect real-world scenarios where",
+      "timestamp": "2026-03-10T11:48:35.000Z",
+      "abstract": "As embodied models become powerful, humans will collaborate with multiple embodied AI agents at their workplace or home in the future. To ensure better communication between human users and the multi-",
       "authors": [
-        "Maike Züfle",
-        "Sara Papi",
-        "Fabian Retkowski",
-        "Szymon Mazurek",
-        "Marek Kasztelnik"
+        "Kangsan Kim",
+        "Yanlai Yang",
+        "Suji Kim",
+        "Woongyeong Yeo",
+        "Youngwan Lee"
       ],
-      "tags": [],
+      "tags": [
+        "agent"
+      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
@@ -381,6 +411,32 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.09723",
+      "title": "RbtAct: Rebuttal as Supervision for Actionable Review Feedback Generation",
+      "url": "https://huggingface.co/papers/2603.09723",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-10T10:30:55.000Z",
+      "abstract": "Large language models (LLMs) are increasingly used across the scientific workflow, including to draft peer-review reports. However, many AI-generated reviews are superficial and insufficiently actiona",
+      "authors": [
+        "Sihong Wu",
+        "Yiling Ma",
+        "Yilun Zhao",
+        "Tiansheng Hu",
+        "Owen Jiang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fnew-w",
       "title": "New ways to learn math and science in ChatGPT",
       "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
@@ -392,30 +448,6 @@
       "authors": [],
       "tags": [
         "gpt"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.09555",
-      "title": "Compiler-First State Space Duality and Portable O(1) Autoregressive Caching for Inference",
-      "url": "https://huggingface.co/papers/2603.09555",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-10T08:03:00.000Z",
-      "abstract": "State-space model releases are typically coupled to fused CUDA and Triton kernels, inheriting a hard dependency on NVIDIA hardware. We show that Mamba-2's state space duality algorithm -- diagonal sta",
-      "authors": [
-        "Cosmo Santoni"
-      ],
-      "tags": [
-        "inference"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -494,50 +526,22 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.09400",
-      "title": "Reward Prediction with Factorized World States",
-      "url": "https://huggingface.co/papers/2603.09400",
+      "id": "hf_paper_2603.09229",
+      "title": "Flash-KMeans: Fast and Memory-Efficient Exact K-Means",
+      "url": "https://huggingface.co/papers/2603.09229",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-03-10T05:12:20.000Z",
-      "abstract": "Agents must infer action outcomes and select actions that maximize a reward signal indicating how close the goal is to being reached. Supervised learning of reward models could introduce biases inhere",
+      "timestamp": "2026-03-10T01:54:52.000Z",
+      "abstract": "k-means has historically been positioned primarily as an offline processing primitive, typically used for dataset organization or embedding preprocessing rather than as a first-class component in onli",
       "authors": [
-        "Yijun Shen",
-        "Delong Chen",
-        "Xianming Hu",
-        "Jiaming Mi",
-        "Hongbo Zhao"
+        "Shuo Yang",
+        "Haocheng Xi",
+        "Yilong Zhao",
+        "Muyang Li",
+        "Xiaoze Fan"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.09221",
-      "title": "Beyond Test-Time Training: Learning to Reason via Hardware-Efficient Optimal Control",
-      "url": "https://huggingface.co/papers/2603.09221",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-10T01:42:13.000Z",
-      "abstract": "Associative memory has long underpinned the design of sequential models. Beyond recall, humans reason by projecting future states and selecting goal-directed actions, a capability that modern language",
-      "authors": [
-        "Peihao Wang",
-        "Shan Yang",
-        "Xijun Wang",
-        "Tesi Xiao",
-        "Xin Liu"
-      ],
-      "tags": [
-        "training"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

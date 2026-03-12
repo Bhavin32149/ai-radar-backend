@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-03-12T03:42:42.656Z",
+  "generatedAt": "2026-03-12T05:12:03.056Z",
   "date": "07-03-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2603.07392",
+      "title": "Can Large Language Models Keep Up? Benchmarking Online Adaptation to Continual Knowledge Streams",
+      "url": "https://huggingface.co/papers/2603.07392",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-07T19:38:39.000Z",
+      "abstract": "LLMs operating in dynamic real-world contexts often encounter knowledge that evolves continuously or emerges incrementally. To remain accurate and effective, models must adapt to newly arriving inform",
+      "authors": [
+        "Jiyeon Kim",
+        "Hyunji Lee",
+        "Dylan Zhou",
+        "Sue Hyun Park",
+        "Seunghyun Yoon"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "gh_793375104",
       "title": "Shubhamsaboo/awesome-llm-apps — Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource",
@@ -26,7 +54,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 101649,
+      "stars": 101668,
       "votes": 0,
       "points": 0
     },

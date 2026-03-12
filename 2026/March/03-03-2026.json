@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-12T03:42:42.658Z",
+  "generatedAt": "2026-03-12T05:12:03.058Z",
   "date": "03-03-2026",
-  "count": 4,
+  "count": 3,
   "summary": null,
   "items": [
     {
@@ -62,35 +62,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.02816",
-      "title": "BrandFusion: A Multi-Agent Framework for Seamless Brand Integration in Text-to-Video Generation",
-      "url": "https://huggingface.co/papers/2603.02816",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-03T05:10:41.000Z",
-      "abstract": "The rapid advancement of text-to-video (T2V) models has revolutionized content creation, yet their commercial potential remains largely untapped. We introduce, for the first time, the task of seamless",
-      "authors": [
-        "Zihao Zhu",
-        "Ruotong Wang",
-        "Siwei Lyu",
-        "Min Zhang",
-        "Baoyuan Wu"
-      ],
-      "tags": [
-        "agent",
-        "text-to-video"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

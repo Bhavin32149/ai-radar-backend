@@ -1,37 +1,9 @@
 {
-  "generatedAt": "2026-03-12T03:42:42.657Z",
+  "generatedAt": "2026-03-12T05:12:03.057Z",
   "date": "05-03-2026",
   "count": 7,
   "summary": null,
   "items": [
-    {
-      "id": "hf_paper_2603.05863",
-      "title": "ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning",
-      "url": "https://huggingface.co/papers/2603.05863",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-05T22:38:17.000Z",
-      "abstract": "While Large Language Models (LLMs) have revolutionized code generation, standard \"System 1\" approaches, generating solutions in a single forward pass, often hit a performance ceiling when faced with c",
-      "authors": [
-        "Juyong Jiang",
-        "Jiasi Shen",
-        "Sunghun Kim",
-        "Kang Min Yoo",
-        "Jeonghoon Kim"
-      ],
-      "tags": [
-        "reinforcement learning"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "hf_paper_2603.05757",
       "title": "EmboAlign: Aligning Video Generation with Compositional Constraints for Zero-Shot Manipulation",
@@ -47,6 +19,32 @@
         "Payal Mohapatra",
         "Han Liu",
         "Ruohan Zhang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.05711",
+      "title": "Any to Full: Prompting Depth Anything for Depth Completion in One Stage",
+      "url": "https://huggingface.co/papers/2603.05711",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-05T17:08:40.000Z",
+      "abstract": "Accurate, dense depth estimation is crucial for robotic perception, but commodity sensors often yield sparse or incomplete measurements due to hardware limitations. Existing RGBD-fused depth completio",
+      "authors": [
+        "Zhiyuan Zhou",
+        "Ruofeng Liu",
+        "Taichi Liu",
+        "Weijian Zuo",
+        "Shanshan Wang"
       ],
       "tags": [],
       "score": 6,
