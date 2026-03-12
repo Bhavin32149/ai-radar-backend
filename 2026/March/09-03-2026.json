@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-12T21:33:20.746Z",
+  "generatedAt": "2026-03-12T22:16:12.417Z",
   "date": "09-03-2026",
-  "count": 18,
+  "count": 17,
   "summary": null,
   "items": [
     {
@@ -80,29 +80,6 @@
       "tags": [
         "claude",
         "inference"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "Anthropic Introduces Code Review via Claude Code to Automate Complex Security Research Using Advanced Agentic Multi-Step Reasoning Loops",
-      "url": "https://www.marktechpost.com/2026/03/09/anthropic-introduces-code-review-via-claude-code-to-automate-complex-security-research-using-advanced-agentic-multi-step-reasoning-loops/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-03-09T20:28:44.000Z",
-      "abstract": "In the frantic arms race of &#8216;AI for code,&#8217; we’ve moved past the era of the glorified autocomplete. Today, Anthropic is double-downing on a more ambitious vision: the AI agent that doesn&#8",
-      "authors": [],
-      "tags": [
-        "claude",
-        "agent"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -409,7 +386,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 107886,
+      "stars": 107887,
       "votes": 0,
       "points": 0
     }

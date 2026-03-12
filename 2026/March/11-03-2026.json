@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-12T21:33:20.744Z",
+  "generatedAt": "2026-03-12T22:16:12.415Z",
   "date": "11-03-2026",
-  "count": 45,
+  "count": 43,
   "summary": null,
   "items": [
     {
@@ -77,50 +77,6 @@
       "abstract": "",
       "authors": [],
       "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rr72lr",
-      "title": "Qwen3.5-9B Quantization Comparison",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rr72lr/qwen359b_quantization_comparison/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-11T21:29:17+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "qwen"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rr6wqb",
-      "title": "Llama.cpp now with a true reasoning budget!",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rr6wqb/llamacpp_now_with_a_true_reasoning_budget/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "model",
-      "timestamp": "2026-03-11T21:23:19+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "llama"
-      ],
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",

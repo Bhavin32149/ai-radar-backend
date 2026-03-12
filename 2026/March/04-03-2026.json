@@ -1,31 +1,9 @@
 {
-  "generatedAt": "2026-03-12T21:33:20.748Z",
+  "generatedAt": "2026-03-12T22:16:12.419Z",
   "date": "04-03-2026",
-  "count": 3,
+  "count": 2,
   "summary": null,
   "items": [
-    {
-      "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
-      "title": "Embed Amazon Quick Suite chat agents in enterprise applications",
-      "url": "https://aws.amazon.com/blogs/machine-learning/embed-amazon-quick-suite-chat-agents-in-enterprise-applications/",
-      "source": "AWS ML Blog",
-      "sourceIcon": "☁️",
-      "type": "tool",
-      "timestamp": "2026-03-04T21:20:58.000Z",
-      "abstract": "Organizations find it challenging to implement a secure embedded chat in their applications and can require weeks of development to build authentication, token validation, domain security, and global",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Ft",
       "title": "Teaching LLMs to reason like Bayesians",

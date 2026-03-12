@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-03-12T21:33:20.520Z",
+  "generatedAt": "2026-03-12T22:16:12.205Z",
   "trending": [
     {
       "tag": "Agent",
-      "count": 37
+      "count": 36
     },
     {
       "tag": "Ai Agents",
@@ -18,12 +18,12 @@
       "count": 25
     },
     {
-      "tag": "Claude",
-      "count": 18
+      "tag": "Inference",
+      "count": 16
     },
     {
-      "tag": "Inference",
-      "count": 14
+      "tag": "Claude",
+      "count": 16
     },
     {
       "tag": "Gpt",
