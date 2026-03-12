@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-11T23:46:37.181Z",
+  "generatedAt": "2026-03-12T01:08:40.481Z",
   "date": "09-03-2026",
-  "count": 26,
+  "count": 25,
   "summary": null,
   "items": [
     {
@@ -449,7 +449,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 130267,
+      "stars": 130268,
       "votes": 0,
       "points": 0
     },
@@ -507,28 +507,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "The &#8216;Bayesian&#8217; Upgrade: Why Google AI’s New Teaching Method is the Key to LLM Reasoning",
-      "url": "https://www.marktechpost.com/2026/03/09/the-bayesian-upgrade-why-google-ais-new-teaching-method-is-the-key-to-llm-reasoning/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-03-09T08:23:31.000Z",
-      "abstract": "Large Language Models (LLMs) are the world’s best mimics, but when it comes to the cold, hard logic of updating beliefs based on new evidence, they are surprisingly stubborn. A team of researchers fro",
-      "authors": [],
-      "tags": [
-        "llm"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
