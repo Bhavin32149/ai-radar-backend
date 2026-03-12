@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-12T08:00:44.170Z",
+  "generatedAt": "2026-03-12T09:05:55.913Z",
   "date": "07-03-2026",
-  "count": 2,
+  "count": 3,
   "summary": null,
   "items": [
     {
@@ -45,6 +45,35 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.08754",
+      "title": "Hindsight Credit Assignment for Long-Horizon LLM Agents",
+      "url": "https://huggingface.co/papers/2603.08754",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-07T01:05:20.000Z",
+      "abstract": "Large Language Model (LLM) agents often face significant credit assignment challenges in long-horizon, multi-step tasks due to sparse rewards. Existing value-free methods, such as Group Relative Polic",
+      "authors": [
+        "Hui-Ze Tan",
+        "Xiao-Wen Yang",
+        "Hao Chen",
+        "Jie-Jing Shao",
+        "Yi Wen"
+      ],
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T08:00:44.167Z",
+  "generatedAt": "2026-03-12T09:05:55.910Z",
   "date": "11-03-2026",
   "count": 90,
   "summary": null,
@@ -31,7 +31,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 126822,
+      "stars": 126832,
       "votes": 0,
       "points": 0
     },
@@ -266,7 +266,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 164889,
+      "stars": 164895,
       "votes": 0,
       "points": 0
     },
@@ -469,6 +469,28 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "reddit_LocalLLaMA_t3_1rr5fo5",
+      "title": "Why AI Coding Agents Waste Half Their Context Window",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rr5fo5/why_ai_coding_agents_waste_half_their_context/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "news",
+      "timestamp": "2026-03-11T20:29:57+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -1912,28 +1934,6 @@
         "Baolong Bi"
       ],
       "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rqnpvj",
-      "title": "M5 Max just arrived - benchmarks incoming",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rqnpvj/m5_max_just_arrived_benchmarks_incoming/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-11T08:04:08+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "benchmark"
-      ],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

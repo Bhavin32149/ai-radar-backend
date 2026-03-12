@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-12T08:00:44.170Z",
+  "generatedAt": "2026-03-12T09:05:55.912Z",
   "date": "09-03-2026",
-  "count": 22,
+  "count": 21,
   "summary": null,
   "items": [
     {
@@ -348,7 +348,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 130339,
+      "stars": 130351,
       "votes": 0,
       "points": 0
     },
@@ -421,26 +421,6 @@
       "points": 0
     },
     {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "City Union Bank launches AI centre to support banking operations",
-      "url": "https://www.artificialintelligence-news.com/news/city-union-bank-launches-ai-centre-to-support-banking-operations/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-03-09T10:00:00.000Z",
-      "abstract": "Banks have spent years buying analytics tools and automation software. Now some are taking a different step: building internal spaces where AI can be tested directly on real banking problems. One exam",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2603.08068",
       "title": "In-Context Reinforcement Learning for Tool Use in Large Language Models",
       "url": "https://huggingface.co/papers/2603.08068",
@@ -495,7 +475,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 107865,
+      "stars": 107866,
       "votes": 0,
       "points": 0
     }
