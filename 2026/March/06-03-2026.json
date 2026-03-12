@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T11:03:58.423Z",
+  "generatedAt": "2026-03-12T11:48:00.228Z",
   "date": "06-03-2026",
   "count": 6,
   "summary": null,
@@ -67,9 +67,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fcodex",
-      "title": "Codex Security: now in research preview",
-      "url": "https://openai.com/index/codex-security-now-in-research-preview",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fdescr",
+      "title": "How Descript enables multilingual video dubbing at scale",
+      "url": "https://openai.com/index/descript",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
@@ -87,9 +87,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fdescr",
-      "title": "How Descript enables multilingual video dubbing at scale",
-      "url": "https://openai.com/index/descript",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fcodex",
+      "title": "Codex Security: now in research preview",
+      "url": "https://openai.com/index/codex-security-now-in-research-preview",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
