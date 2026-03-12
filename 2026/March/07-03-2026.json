@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-12T12:37:52.685Z",
+  "generatedAt": "2026-03-12T13:57:18.693Z",
   "date": "07-03-2026",
-  "count": 4,
+  "count": 3,
   "summary": null,
   "items": [
     {
@@ -49,37 +49,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_765083837",
-      "title": "opendatalab/MinerU — Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.",
-      "url": "https://github.com/opendatalab/MinerU",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-03-07T09:31:26Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ai4science",
-        "document-analysis",
-        "extract-data",
-        "layout-analysis",
-        "ocr",
-        "parser",
-        "pdf",
-        "pdf-converter",
-        "pdf-extractor-llm",
-        "pdf-extractor-pretrain"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 56013,
       "votes": 0,
       "points": 0
     },

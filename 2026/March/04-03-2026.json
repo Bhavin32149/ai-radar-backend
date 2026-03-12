@@ -1,40 +1,9 @@
 {
-  "generatedAt": "2026-03-12T12:37:52.687Z",
+  "generatedAt": "2026-03-12T13:57:18.694Z",
   "date": "04-03-2026",
-  "count": 7,
+  "count": 6,
   "summary": null,
   "items": [
-    {
-      "id": "gh_344190478",
-      "title": "microsoft/AI-For-Beginners — 12 Weeks, 24 Lessons, AI for All!",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-03-04T23:52:35Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ai",
-        "artificial-intelligence",
-        "cnn",
-        "computer-vision",
-        "deep-learning",
-        "gan",
-        "machine-learning",
-        "microsoft-for-beginners",
-        "nlp",
-        "rnn"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 45997,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "aws_ml_blog_https%3A%2F%2Faws.amazon.com%2Fblogs%2Fm",
       "title": "Embed Amazon Quick Suite chat agents in enterprise applications",

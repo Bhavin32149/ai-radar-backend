@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-12T12:37:52.684Z",
+  "generatedAt": "2026-03-12T13:57:18.692Z",
   "date": "09-03-2026",
-  "count": 21,
+  "count": 20,
   "summary": null,
   "items": [
     {
@@ -324,7 +324,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 130388,
+      "stars": 130399,
       "votes": 0,
       "points": 0
     },
@@ -373,37 +373,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_377496562",
-      "title": "AppFlowy-IO/AppFlowy — Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where",
-      "url": "https://github.com/AppFlowy-IO/AppFlowy",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-03-09T12:03:33Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "blog",
-        "confluence-alternative",
-        "content-management",
-        "content-services",
-        "documentation",
-        "flutter",
-        "note-taking",
-        "notion-alternative",
-        "project-management",
-        "task-management"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 68539,
       "votes": 0,
       "points": 0
     },
