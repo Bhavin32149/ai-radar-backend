@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-12T09:05:55.910Z",
+  "generatedAt": "2026-03-12T10:04:22.246Z",
   "date": "11-03-2026",
-  "count": 90,
+  "count": 89,
   "summary": null,
   "items": [
     {
@@ -31,7 +31,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 126832,
+      "stars": 126851,
       "votes": 0,
       "points": 0
     },
@@ -236,37 +236,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_658928958",
-      "title": "ollama/ollama — Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "url": "https://github.com/ollama/ollama",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-03-11T21:51:41Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "deepseek",
-        "gemma",
-        "gemma3",
-        "glm",
-        "go",
-        "golang",
-        "gpt-oss",
-        "llama",
-        "llama3",
-        "llm"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 164895,
       "votes": 0,
       "points": 0
     },

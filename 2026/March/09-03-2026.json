@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-12T09:05:55.912Z",
+  "generatedAt": "2026-03-12T10:04:22.248Z",
   "date": "09-03-2026",
-  "count": 21,
+  "count": 20,
   "summary": null,
   "items": [
     {
@@ -278,30 +278,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.08771",
-      "title": "Micro-Diffusion Compression -- Binary Tree Tweedie Denoising for Online Probability Estimation",
-      "url": "https://huggingface.co/papers/2603.08771",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-09T12:59:24.000Z",
-      "abstract": "We present Midicoth, a lossless compression system that introduces a micro-diffusion denoising layer for improving probability estimates produced by adaptive statistical models. In compressors such as",
-      "authors": [
-        "Roberto Tacconelli"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
       "title": "AI insurance underwriting is past the pitch deck—Gradient AI just got the capital to prove it",
       "url": "https://www.artificialintelligence-news.com/news/gradient-ai-cibc-ai-insurance-underwriting-growth-capital/",
@@ -348,7 +324,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 130351,
+      "stars": 130368,
       "votes": 0,
       "points": 0
     },
@@ -475,7 +451,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 107866,
+      "stars": 107868,
       "votes": 0,
       "points": 0
     }
