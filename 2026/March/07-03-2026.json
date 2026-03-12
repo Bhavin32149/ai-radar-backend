@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-12T14:45:22.217Z",
+  "generatedAt": "2026-03-12T15:50:03.955Z",
   "date": "07-03-2026",
-  "count": 3,
+  "count": 2,
   "summary": null,
   "items": [
     {
@@ -25,26 +25,6 @@
       ],
       "score": 6,
       "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fhumanity",
-      "title": "Humanity Has Altered an Asteroid’s Orbit Around the Sun",
-      "url": "https://www.404media.co/humanity-has-altered-an-asteroids-orbit-around-the-sun/",
-      "source": "404 Media",
-      "sourceIcon": "📡",
-      "type": "news",
-      "timestamp": "2026-03-07T14:00:31.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-12T14:45:22.217Z",
+  "generatedAt": "2026-03-12T15:50:03.954Z",
   "date": "09-03-2026",
-  "count": 20,
+  "count": 19,
   "summary": null,
   "items": [
     {
@@ -324,27 +324,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 130417,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
-      "title": "UK sovereign AI fund to build up domestic computing infrastructure",
-      "url": "https://www.artificialintelligence-news.com/news/uk-sovereign-ai-fund-build-domestic-computing-infrastructure/",
-      "source": "AI News",
-      "sourceIcon": "🤖",
-      "type": "news",
-      "timestamp": "2026-03-09T12:46:13.000Z",
-      "abstract": "The UK sovereign AI fund intends to secure advantages by providing a domestic alternative to external computing infrastructure. Backed by a £500 million budget from the Department for Science, Innovat",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
+      "stars": 130429,
       "votes": 0,
       "points": 0
     },
@@ -451,7 +431,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 107874,
+      "stars": 107880,
       "votes": 0,
       "points": 0
     }
