@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T06:07:29.267Z",
+  "generatedAt": "2026-03-13T07:26:40.404Z",
   "date": "12-03-2026",
   "count": 89,
   "summary": null,
@@ -1972,21 +1972,22 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1rrisqn",
-      "title": "I was backend lead at Manus. After building agents for 2 years, I stopped using function calling entirely. Here's what I use instead.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rrisqn/i_was_backend_lead_at_manus_after_building_agents/",
+      "id": "reddit_LocalLLaMA_t3_1rrk4gt",
+      "title": "support for microsoft/Phi-4-reasoning-vision-15B has been merged into llama.cpp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rrk4gt/support_for_microsoftphi4reasoningvision15b_has/",
       "source": "Reddit r/LocalLLaMA",
       "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-12T06:02:16+00:00",
+      "type": "model",
+      "timestamp": "2026-03-12T07:23:16+00:00",
       "abstract": "",
       "authors": [],
       "tags": [
-        "agent"
+        "llama",
+        "phi"
       ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
