@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-13T20:58:37.489Z",
+  "generatedAt": "2026-03-13T21:34:06.155Z",
   "date": "11-03-2026",
-  "count": 28,
+  "count": 27,
   "summary": null,
   "items": [
     {
@@ -61,26 +61,6 @@
       ],
       "score": 6,
       "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "the_verge_ai_https%3A%2F%2Fwww.theverge.com%2Fai-arti",
-      "title": "Grammarly says it will stop using AI to clone experts without permission",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/893270/grammarly-ai-expert-review-disabled",
-      "source": "The Verge AI",
-      "sourceIcon": "🔺",
-      "type": "news",
-      "timestamp": "2026-03-11T18:45:50.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
