@@ -1,9 +1,37 @@
 {
-  "generatedAt": "2026-03-13T17:56:49.862Z",
+  "generatedAt": "2026-03-13T18:35:40.047Z",
   "date": "09-03-2026",
-  "count": 11,
+  "count": 12,
   "summary": null,
   "items": [
+    {
+      "id": "hf_paper_2603.09160",
+      "title": "RubiCap: Rubric-Guided Reinforcement Learning for Dense Image Captioning",
+      "url": "https://huggingface.co/papers/2603.09160",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-09T23:51:27.000Z",
+      "abstract": "Dense image captioning is critical for cross-modal alignment in vision-language pretraining and text-to-image generation, but scaling expert-quality annotations is prohibitively expensive. While synth",
+      "authors": [
+        "Tzu-Heng Huang",
+        "Sirajul Salekin",
+        "Javier Movellan",
+        "Frederic Sala",
+        "Manjot Bilkhu"
+      ],
+      "tags": [
+        "reinforcement learning"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
     {
       "id": "nvidia_blog_https%3A%2F%2Fdeveloper.nvidia.com%2Fblo",
       "title": "CUDA 13.2 Introduces Enhanced CUDA Tile Support and New Python Features",
@@ -203,7 +231,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 130710,
+      "stars": 130718,
       "votes": 0,
       "points": 0
     },
@@ -254,7 +282,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 107926,
+      "stars": 107929,
       "votes": 0,
       "points": 0
     }

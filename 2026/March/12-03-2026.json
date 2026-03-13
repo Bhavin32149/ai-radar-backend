@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-13T17:56:49.859Z",
+  "generatedAt": "2026-03-13T18:35:40.045Z",
   "date": "12-03-2026",
-  "count": 62,
+  "count": 59,
   "summary": null,
   "items": [
     {
@@ -264,26 +264,6 @@
       "sourceIcon": "🔶",
       "type": "news",
       "timestamp": "2026-03-12T20:47:58.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "ars_technica_https%3A%2F%2Farstechnica.com%2Fgadgets%",
-      "title": "HP has new incentive to stop blocking third-party ink in its printers",
-      "url": "https://arstechnica.com/gadgets/2026/03/hp-has-new-incentive-to-stop-blocking-third-party-ink-in-its-printers/",
-      "source": "Ars Technica",
-      "sourceIcon": "🔶",
-      "type": "news",
-      "timestamp": "2026-03-12T20:29:19.000Z",
       "abstract": "",
       "authors": [],
       "tags": [],
@@ -696,28 +676,6 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1rrxx2f",
-      "title": "Meta announces four new MTIA chips, focussed on inference",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rrxx2f/meta_announces_four_new_mtia_chips_focussed_on/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-12T17:54:45+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "inference"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "arxiv_2603.12232v1",
       "title": "Incremental Neural Network Verification via Learned Conflicts",
       "url": "https://arxiv.org/abs/2603.12232v1",
@@ -1074,32 +1032,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.12267",
-      "title": "EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation",
-      "url": "https://huggingface.co/papers/2603.12267",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-12T13:59:59.000Z",
-      "abstract": "Autoregressive (AR) video generative models rely on video tokenizers that compress pixels into discrete token sequences. The length of these token sequences is crucial for balancing reconstruction qua",
-      "authors": [
-        "Tianwei Xiong",
-        "Jun Hao Liew",
-        "Zilong Huang",
-        "Zhijie Lin",
-        "Jiashi Feng"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
