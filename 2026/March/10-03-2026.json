@@ -1,35 +1,9 @@
 {
-  "generatedAt": "2026-03-13T03:40:34.792Z",
+  "generatedAt": "2026-03-13T05:09:20.556Z",
   "date": "10-03-2026",
-  "count": 19,
+  "count": 17,
   "summary": null,
   "items": [
-    {
-      "id": "hf_paper_2603.10365",
-      "title": "Geometric Autoencoder for Diffusion Models",
-      "url": "https://huggingface.co/papers/2603.10365",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-10T23:29:16.000Z",
-      "abstract": "Latent diffusion models have established a new state-of-the-art in high-resolution visual generation. Integrating Vision Foundation Model priors improves generative efficiency, yet existing latent des",
-      "authors": [
-        "Hangyu Liu",
-        "Jianyong Wang",
-        "Yutao Sun"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fcybertru",
       "title": "Cybertruck Tried to Drive 'Straight Off an Overpass' Attorney Claims",
@@ -94,32 +68,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.10256",
-      "title": "ID-LoRA: Identity-Driven Audio-Video Personalization with In-Context LoRA",
-      "url": "https://huggingface.co/papers/2603.10256",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-10T18:23:36.000Z",
-      "abstract": "Existing video personalization methods preserve visual likeness but treat video and audio separately. Without access to the visual scene, audio models cannot synchronize sounds with on-screen actions;",
-      "authors": [
-        "Aviad Dahan",
-        "Moran Yanuka",
-        "Noa Kraicer",
-        "Lior Wolf",
-        "Raja Giryes"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
       "title": "ABB: Physical AI simulation boosts ROI for factory automation",
       "url": "https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/",
@@ -133,6 +81,34 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.11076",
+      "title": "DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use",
+      "url": "https://huggingface.co/papers/2603.11076",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-10T16:54:23.000Z",
+      "abstract": "Recent work synthesizes agentic tasks for post-training tool-using LLMs, yet robust generalization under shifts in tasks and toolsets remains an open challenge. We trace this brittleness to insufficie",
+      "authors": [
+        "Aili Chen",
+        "Chi Zhang",
+        "Junteng Liu",
+        "Jiangjie Chen",
+        "Chengyu Du"
+      ],
+      "tags": [
+        "agent"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -195,34 +171,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.10178",
-      "title": "Video-Based Reward Modeling for Computer-Use Agents",
-      "url": "https://huggingface.co/papers/2603.10178",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-10T15:17:22.000Z",
-      "abstract": "Computer-using agents (CUAs) are becoming increasingly capable; however, it remains difficult to scale evaluation of whether a trajectory truly fulfills a user instruction. In this work, we study rewa",
-      "authors": [
-        "Linxin Song",
-        "Jieyu Zhang",
-        "Huanxin Sheng",
-        "Taiwei Shi",
-        "Gupta Rahul"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

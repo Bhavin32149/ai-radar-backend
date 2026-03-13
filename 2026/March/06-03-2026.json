@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-13T03:40:34.794Z",
+  "generatedAt": "2026-03-13T05:09:20.557Z",
   "date": "06-03-2026",
-  "count": 7,
+  "count": 6,
   "summary": null,
   "items": [
     {
@@ -67,34 +67,9 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.06922",
-      "title": "NerVE: Nonlinear Eigenspectrum Dynamics in LLM Feed-Forward Networks",
-      "url": "https://huggingface.co/papers/2603.06922",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-06T17:50:43.000Z",
-      "abstract": "We introduce NerVE, a unified eigenspectral framework for understanding how feed-forward networks (FFNs) in large language models (LLMs) organize and regulate information flow in high-dimensional late",
-      "authors": [
-        "Nandan Kumar Jha",
-        "Brandon Reagen"
-      ],
-      "tags": [
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fcodex",
-      "title": "Codex Security: now in research preview",
-      "url": "https://openai.com/index/codex-security-now-in-research-preview",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fdescr",
+      "title": "How Descript enables multilingual video dubbing at scale",
+      "url": "https://openai.com/index/descript",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",
@@ -112,9 +87,9 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fdescr",
-      "title": "How Descript enables multilingual video dubbing at scale",
-      "url": "https://openai.com/index/descript",
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fcodex",
+      "title": "Codex Security: now in research preview",
+      "url": "https://openai.com/index/codex-security-now-in-research-preview",
       "source": "OpenAI Blog",
       "sourceIcon": "🟢",
       "type": "news",

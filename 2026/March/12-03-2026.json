@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-13T03:40:34.790Z",
+  "generatedAt": "2026-03-13T05:09:20.553Z",
   "date": "12-03-2026",
-  "count": 91,
+  "count": 93,
   "summary": null,
   "items": [
     {
@@ -71,7 +71,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 182406,
+      "stars": 182411,
       "votes": 0,
       "points": 0
     },
@@ -168,6 +168,28 @@
       "abstract": "",
       "authors": [],
       "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "reddit_LocalLLaMA_t3_1rs3vwe",
+      "title": "GATED_DELTA_NET for vulkan merged in llama.cpp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rs3vwe/gated_delta_net_for_vulkan_merged_in_llamacpp/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "model",
+      "timestamp": "2026-03-12T21:29:38+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "llama"
+      ],
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
@@ -483,62 +505,6 @@
       "points": 0
     },
     {
-      "id": "arxiv_2603.12255v1",
-      "title": "Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training",
-      "url": "https://arxiv.org/abs/2603.12255v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-12T17:58:58Z",
-      "abstract": "Humans perceive and understand real-world spaces through a stream of visual observations. Therefore, the ability to streamingly maintain and update spatial evidence from potentially unbounded video st",
-      "authors": [
-        "Fangfu Liu",
-        "Diankun Wu",
-        "Jiawei Chi",
-        "Yimo Cai",
-        "Yi-Hsin Hung"
-      ],
-      "tags": [
-        "training"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "arxiv_2603.12252v1",
-      "title": "EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models",
-      "url": "https://arxiv.org/abs/2603.12252v1",
-      "source": "ArXiv",
-      "sourceIcon": "📄",
-      "type": "research",
-      "timestamp": "2026-03-12T17:58:48Z",
-      "abstract": "Recently, Multimodal Large Language Models (MLLMs) have been widely integrated into diffusion frameworks primarily as text encoders to tackle complex tasks such as spatial reasoning. However, this par",
-      "authors": [
-        "Xuanlang Dai",
-        "Yujie Zhou",
-        "Long Xing",
-        "Jiazi Bu",
-        "Xilin Wei"
-      ],
-      "tags": [
-        "diffusion"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "arxiv_2603.12249v1",
       "title": "SciMDR: Benchmarking and Advancing Scientific Multimodal Document Reasoning",
       "url": "https://arxiv.org/abs/2603.12249v1",
@@ -589,6 +555,35 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "arxiv_2603.12246v1",
+      "title": "Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training",
+      "url": "https://arxiv.org/abs/2603.12246v1",
+      "source": "ArXiv",
+      "sourceIcon": "📄",
+      "type": "research",
+      "timestamp": "2026-03-12T17:57:06Z",
+      "abstract": "Reasoning LLMs-as-Judges, which can benefit from inference-time scaling, provide a promising path for extending the success of reasoning models to non-verifiable domains where the output correctness/q",
+      "authors": [
+        "Yixin Liu",
+        "Yue Yu",
+        "DiJia Su",
+        "Sid Wang",
+        "Xuewei Wang"
+      ],
+      "tags": [
+        "llm",
+        "training"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -990,29 +985,6 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1rrw3g4",
-      "title": "Nemotron-3-Super-120B-A12B NVFP4 inference benchmark on one RTX Pro 6000 Blackwell",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rrw3g4/nemotron3super120ba12b_nvfp4_inference_benchmark/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "research",
-      "timestamp": "2026-03-12T16:50:17+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "benchmark",
-        "inference"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "ars_technica_https%3A%2F%2Farstechnica.com%2Fscience%",
       "title": "Centuries before the Inca, Peru's wealthy imported parrots from afar",
       "url": "https://arstechnica.com/science/2026/03/centuries-before-the-inca-perus-wealthy-imported-parrots-from-afar/",
@@ -1392,6 +1364,32 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.12267",
+      "title": "EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation",
+      "url": "https://huggingface.co/papers/2603.12267",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-12T13:59:59.000Z",
+      "abstract": "Autoregressive (AR) video generative models rely on video tokenizers that compress pixels into discrete token sequences. The length of these token sequences is crucial for balancing reconstruction qua",
+      "authors": [
+        "Tianwei Xiong",
+        "Jun Hao Liew",
+        "Zilong Huang",
+        "Zhijie Lin",
+        "Jiashi Feng"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "hf_paper_2603.12265",
       "title": "OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams",
       "url": "https://huggingface.co/papers/2603.12265",
@@ -1411,6 +1409,34 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.12264",
+      "title": "GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing",
+      "url": "https://huggingface.co/papers/2603.12264",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-12T13:59:52.000Z",
+      "abstract": "Unified multimodal models target joint understanding, reasoning, and generation, but current image editing benchmarks are largely confined to natural images and shallow commonsense reasoning, offering",
+      "authors": [
+        "Mingxin Liu",
+        "Ziqian Fan",
+        "Zhaokai Wang",
+        "Leyao Gu",
+        "Zirun Zhu"
+      ],
+      "tags": [
+        "benchmark"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -1446,6 +1472,62 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.12255",
+      "title": "Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training",
+      "url": "https://huggingface.co/papers/2603.12255",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-12T13:58:58.000Z",
+      "abstract": "Humans perceive and understand real-world spaces through a stream of visual observations. Therefore, the ability to streamingly maintain and update spatial evidence from potentially unbounded video st",
+      "authors": [
+        "Fangfu Liu",
+        "Diankun Wu",
+        "Jiawei Chi",
+        "Yimo Cai",
+        "Yi-Hsin Hung"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.12252",
+      "title": "EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models",
+      "url": "https://huggingface.co/papers/2603.12252",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-12T13:58:48.000Z",
+      "abstract": "Recently, Multimodal Large Language Models (MLLMs) have been widely integrated into diffusion frameworks primarily as text encoders to tackle complex tasks such as spatial reasoning. However, this par",
+      "authors": [
+        "Xuanlang Dai",
+        "Yujie Zhou",
+        "Long Xing",
+        "Jiazi Bu",
+        "Xilin Wei"
+      ],
+      "tags": [
+        "diffusion"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "reddit_MachineLearning_t3_1rrrgjm",
       "title": "[R] LEVI: Beating GEPA/OpenEvolve/AlphaEvolve at a fraction of the cost",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1rrrgjm/r_levi_beating_gepaopenevolvealphaevolve_at_a/",
@@ -1466,28 +1548,27 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.12246",
-      "title": "Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training",
-      "url": "https://huggingface.co/papers/2603.12246",
+      "id": "hf_paper_2603.12247",
+      "title": "Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation",
+      "url": "https://huggingface.co/papers/2603.12247",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-03-12T13:57:06.000Z",
-      "abstract": "Reasoning LLMs-as-Judges, which can benefit from inference-time scaling, provide a promising path for extending the success of reasoning models to non-verifiable domains where the output correctness/q",
+      "timestamp": "2026-03-12T13:57:21.000Z",
+      "abstract": "Reinforcement learning (RL) has emerged as a promising paradigm for enhancing image editing and text-to-image (T2I) generation. However, current reward models, which act as critics during RL, often su",
       "authors": [
-        "Yixin Liu",
-        "Yue Yu",
-        "DiJia Su",
-        "Sid Wang",
-        "Xuewei Wang"
+        "Xiangyu Zhao",
+        "Peiyuan Zhang",
+        "Junming Lin",
+        "Tianhao Liang",
+        "Yuchen Duan"
       ],
       "tags": [
-        "llm",
-        "training"
+        "reinforcement learning"
       ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -1536,6 +1617,32 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.12201",
+      "title": "IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse",
+      "url": "https://huggingface.co/papers/2603.12201",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-12T13:27:21.000Z",
+      "abstract": "Long-context agentic workflows have emerged as a defining use case for large language models, making attention efficiency critical for both inference speed and serving cost. Sparse attention addresses",
+      "authors": [
+        "Yushi Bai",
+        "Qian Dong",
+        "Ting Jiang",
+        "Xin Lv",
+        "Zhengxiao Du"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -1724,19 +1831,20 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.12057",
-      "title": "Coarse-Guided Visual Generation via Weighted h-Transform Sampling",
-      "url": "https://huggingface.co/papers/2603.12057",
+      "id": "hf_paper_2603.12089",
+      "title": "EmbTracker: Traceable Black-box Watermarking for Federated Language Models",
+      "url": "https://huggingface.co/papers/2603.12089",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-03-12T11:26:19.000Z",
-      "abstract": "Coarse-guided visual generation, which synthesizes fine visual samples from degraded or low-fidelity coarse references, is essential for various real-world applications. While training-based approache",
+      "timestamp": "2026-03-12T11:57:32.000Z",
+      "abstract": "Federated Language Model (FedLM) allows a collaborative learning without sharing raw data, yet it introduces a critical vulnerability, as every untrustworthy client may leak the received functional mo",
       "authors": [
-        "Yanghao Wang",
-        "Ziqi Jiang",
-        "Zhen Wang",
-        "Long Chen"
+        "Haodong Zhao",
+        "Jinming Hu",
+        "Yijie Bai",
+        "Tian Dong",
+        "Wei Du"
       ],
       "tags": [],
       "score": 6,
@@ -1959,90 +2067,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.11665",
-      "title": "Multi-Task Reinforcement Learning for Enhanced Multimodal LLM-as-a-Judge",
-      "url": "https://huggingface.co/papers/2603.11665",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-12T04:32:38.000Z",
-      "abstract": "Multimodal Large Language Models (MLLMs) have been widely adopted as MLLM-as-a-Judges due to their strong alignment with human judgment across various visual tasks. However, most existing judge models",
-      "authors": [
-        "Junjie Wu",
-        "Xuan Kan",
-        "Zihao He",
-        "Shunwen Tan",
-        "Bo Pan"
-      ],
-      "tags": [
-        "llm",
-        "multimodal",
-        "reinforcement learning"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_574523116",
-      "title": "f/prompts.chat — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and op",
-      "url": "https://github.com/f/prompts.chat",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-03-12T03:52:04Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ai",
-        "artificial-intelligence",
-        "awesome-list",
-        "chatgpt",
-        "chatgpt-prompts",
-        "claude",
-        "gemini",
-        "gpt",
-        "gpt-4",
-        "llm"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 151683,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rrfqlu",
-      "title": "I spent 8+ hours benchmarking every MoE backend for Qwen3.5-397B NVFP4 on 4x RTX PRO 6000 (SM120). Here's what I found.",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rrfqlu/i_spent_8_hours_benchmarking_every_moe_backend/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-12T03:22:19+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "qwen",
-        "benchmark"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "hf_paper_2603.11593",
       "title": "WeEdit: A Dataset, Benchmark and Glyph-Guided Framework for Text-centric Image Editing",
       "url": "https://huggingface.co/papers/2603.11593",
@@ -2061,6 +2085,31 @@
       "tags": [
         "benchmark"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.11531",
+      "title": "Mobile-GS: Real-time Gaussian Splatting for Mobile Devices",
+      "url": "https://huggingface.co/papers/2603.11531",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-12T00:33:04.000Z",
+      "abstract": "3D Gaussian Splatting (3DGS) has emerged as a powerful representation for high-quality rendering across a wide range of applications.However, its high computational demands and large storage costs pos",
+      "authors": [
+        "Xiaobiao Du",
+        "Yida Wang",
+        "Kun Zhan",
+        "Xin Yu"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",

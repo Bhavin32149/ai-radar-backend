@@ -1,35 +1,9 @@
 {
-  "generatedAt": "2026-03-13T03:40:34.792Z",
+  "generatedAt": "2026-03-13T05:09:20.554Z",
   "date": "11-03-2026",
-  "count": 27,
+  "count": 25,
   "summary": null,
   "items": [
-    {
-      "id": "hf_paper_2603.11510",
-      "title": "Tiny Aya: Bridging Scale and Multilingual Depth",
-      "url": "https://huggingface.co/papers/2603.11510",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-11T23:53:13.000Z",
-      "abstract": "Tiny Aya redefines what a small multilingual language model can achieve. Trained on 70 languages and refined through region-aware posttraining, it delivers state-of-the-art in translation quality, str",
-      "authors": [
-        "Alejandro R. Salamanca",
-        "Diana Abagyan",
-        "Daniel D'souza",
-        "Ammar Khairi",
-        "David Mora"
-      ],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "How to Design a Streaming Decision Agent with Partial Reasoning, Online Replanning, and Reactive Mid-Execution Adaptation in Dynamic Environments",
@@ -89,32 +63,6 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.11421",
-      "title": "ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation",
-      "url": "https://huggingface.co/papers/2603.11421",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-11T21:27:08.000Z",
-      "abstract": "Text-driven video generation has democratized film creation, but camera control in cinematic multi-shot scenarios remains a significant block. Implicit textual prompts lack precision, while explicit t",
-      "authors": [
-        "Songlin Yang",
-        "Zhe Wang",
-        "Xuyi Yang",
-        "Songchun Zhang",
-        "Xianghao Kong"
-      ],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -395,26 +343,6 @@
       "points": 0
     },
     {
-      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fwayfa",
-      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-      "url": "https://openai.com/index/wayfair",
-      "source": "OpenAI Blog",
-      "sourceIcon": "🟢",
-      "type": "news",
-      "timestamp": "2026-03-11T11:00:00.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fequip",
       "title": "From model to agent: Equipping the Responses API with a computer environment",
       "url": "https://openai.com/index/equip-responses-api-computer-environment",
@@ -427,6 +355,26 @@
       "tags": [
         "agent"
       ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "openai_blog_https%3A%2F%2Fopenai.com%2Findex%2Fwayfa",
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "url": "https://openai.com/index/wayfair",
+      "source": "OpenAI Blog",
+      "sourceIcon": "🟢",
+      "type": "news",
+      "timestamp": "2026-03-11T11:00:00.000Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [],
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
@@ -526,35 +474,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.11103",
-      "title": "Understanding by Reconstruction: Reversing the Software Development Process for LLM Pretraining",
-      "url": "https://huggingface.co/papers/2603.11103",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-11T05:23:20.000Z",
-      "abstract": "While Large Language Models (LLMs) have achieved remarkable success in code generation, they often struggle with the deep, long-horizon reasoning required for complex software engineering. We attribut",
-      "authors": [
-        "Zhiyuan Zeng",
-        "Yichi Zhang",
-        "Yong Shan",
-        "Kai Hua",
-        "Siyuan Fang"
-      ],
-      "tags": [
-        "llm",
-        "training"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "Fish Audio Releases Fish Audio S2: A New Generation of Expressive Text-to-Speech (TTS) with Absurdly Controllable Emotion",
       "url": "https://www.marktechpost.com/2026/03/10/fish-audio-releases-fish-audio-s2-a-new-generation-of-expressive-text-to-speech-tts-with-absurdly-controllable-emotion/",
@@ -592,6 +511,34 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.10420",
+      "title": "FireRedASR2S: A State-of-the-Art Industrial-Grade All-in-One Automatic Speech Recognition System",
+      "url": "https://huggingface.co/papers/2603.10420",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-11T01:11:06.000Z",
+      "abstract": "We present FireRedASR2S, a state-of-the-art industrial-grade all-in-one automatic speech recognition (ASR) system. It integrates four modules in a unified pipeline: ASR, Voice Activity Detection (VAD)",
+      "authors": [
+        "Kaituo Xu",
+        "Yan Jia",
+        "Kai Huang",
+        "Junjie Chen",
+        "Wenpeng Li"
+      ],
+      "tags": [
+        "speech"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,

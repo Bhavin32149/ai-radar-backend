@@ -1,28 +1,54 @@
 {
-  "generatedAt": "2026-03-12T03:42:42.655Z",
+  "generatedAt": "2026-03-13T05:09:20.557Z",
   "date": "08-03-2026",
-  "count": 1,
+  "count": 2,
   "summary": null,
   "items": [
     {
-      "id": "hf_paper_2603.07513",
-      "title": "Bolbosh: Script-Aware Flow Matching for Kashmiri Text-to-Speech",
-      "url": "https://huggingface.co/papers/2603.07513",
+      "id": "hf_paper_2603.07865",
+      "title": "SoundWeaver: Semantic Warm-Starting for Text-to-Audio Diffusion Serving",
+      "url": "https://huggingface.co/papers/2603.07865",
       "source": "HuggingFace Papers",
       "sourceIcon": "🤗",
       "type": "research",
-      "timestamp": "2026-03-08T03:34:15.000Z",
-      "abstract": "Kashmiri is spoken by around 7 million people but remains critically underserved in speech technology, despite its official status and rich linguistic heritage. The lack of robust Text-to-Speech (TTS)",
+      "timestamp": "2026-03-08T20:38:02.000Z",
+      "abstract": "Text-to-audio diffusion models produce high-fidelity audio but require tens of function evaluations (NFEs), incurring multi-second latency and limited throughput. We present SoundWeaver, the first tra",
       "authors": [
-        "Tajamul Ashraf",
-        "Burhaan Rasheed Zargar",
-        "Saeed Abdul Muizz",
-        "Ifrah Mushtaq",
-        "Nazima Mehdi"
+        "Ayush Barik",
+        "Sofia Stoica",
+        "Nikhil Sarda",
+        "Arnav Kethana",
+        "Abhinav Khanduja"
       ],
       "tags": [
-        "speech"
+        "diffusion"
       ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.07534",
+      "title": "Accent Vector: Controllable Accent Manipulation for Multilingual TTS Without Accented Data",
+      "url": "https://huggingface.co/papers/2603.07534",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-08T04:48:42.000Z",
+      "abstract": "Accent is an integral part of society, reflecting multiculturalism and shaping how individuals express identity. The majority of English speakers are non-native (L2) speakers, yet current Text-To-Spee",
+      "authors": [
+        "Thanathai Lertpetchpun",
+        "Thanapat Trachu",
+        "Jihwan Lee",
+        "Tiantian Feng",
+        "Dani Byrd"
+      ],
+      "tags": [],
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
