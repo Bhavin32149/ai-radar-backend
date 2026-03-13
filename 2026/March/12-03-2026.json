@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-13T22:20:36.180Z",
+  "generatedAt": "2026-03-13T22:49:57.455Z",
   "date": "12-03-2026",
-  "count": 48,
+  "count": 47,
   "summary": null,
   "items": [
     {
@@ -76,26 +76,6 @@
       "sourceIcon": "🏛️",
       "type": "research",
       "timestamp": "2026-03-12T22:23:34.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_MachineLearning_t3_1rs56wa",
-      "title": "CVPR workshop farming citations - how is this ethical?? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1rs56wa/cvpr_workshop_farming_citations_how_is_this/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-12T22:19:01+00:00",
       "abstract": "",
       "authors": [],
       "tags": [],
