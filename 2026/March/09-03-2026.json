@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-13T08:00:37.087Z",
+  "generatedAt": "2026-03-13T09:03:46.079Z",
   "date": "09-03-2026",
-  "count": 15,
+  "count": 16,
   "summary": null,
   "items": [
     {
@@ -170,6 +170,33 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.10055",
+      "title": "Training Language Models via Neural Cellular Automata",
+      "url": "https://huggingface.co/papers/2603.10055",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-09T14:14:26.000Z",
+      "abstract": "Pre-training is crucial for large language models (LLMs), as it is when most representations and capabilities are acquired. However, natural language pre-training has problems: high-quality text is fi",
+      "authors": [
+        "Dan Lee",
+        "Seungwook Han",
+        "Akarsh Kumar",
+        "Pulkit Agrawal"
+      ],
+      "tags": [
+        "training"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fai-psych",
       "title": "How to Talk to Someone Experiencing 'AI Psychosis'",
       "url": "https://www.404media.co/ai-psychosis-help-gemini-chatgpt-claude-chatbot-delusions/",
@@ -256,7 +283,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 130603,
+      "stars": 130608,
       "votes": 0,
       "points": 0
     },
@@ -307,7 +334,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 107903,
+      "stars": 107907,
       "votes": 0,
       "points": 0
     },

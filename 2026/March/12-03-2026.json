@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-13T08:00:37.085Z",
+  "generatedAt": "2026-03-13T09:03:46.076Z",
   "date": "12-03-2026",
-  "count": 89,
+  "count": 88,
   "summary": null,
   "items": [
     {
@@ -1619,34 +1619,6 @@
       "points": 0
     },
     {
-      "id": "hf_paper_2603.12180",
-      "title": "Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections",
-      "url": "https://huggingface.co/papers/2603.12180",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-12T13:11:22.000Z",
-      "abstract": "Multimodal agents offer a promising path to automating complex document-intensive workflows. Yet, a critical question remains: do these agents demonstrate genuine strategic reasoning, or merely stocha",
-      "authors": [
-        "Łukasz Borchmann",
-        "Jordy Van Landeghem",
-        "Michał Turski",
-        "Shreyansh Padarha",
-        "Ryan Othniel Kearns"
-      ],
-      "tags": [
-        "agent"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fp",
       "title": "Protecting cities with AI-driven flash flood forecasting",
       "url": "https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting/",
@@ -1849,6 +1821,35 @@
       "points": 0
     },
     {
+      "id": "hf_paper_2603.12056",
+      "title": "XSkill: Continual Learning from Experience and Skills in Multimodal Agents",
+      "url": "https://huggingface.co/papers/2603.12056",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-12T11:25:57.000Z",
+      "abstract": "Multimodal agents can now tackle complex reasoning tasks with diverse tools, yet they still suffer from inefficient tool use and inflexible orchestration in open-ended settings. A central challenge is",
+      "authors": [
+        "Guanyu Jiang",
+        "Zhaochen Su",
+        "Xiaoye Qu",
+        "Yi R.",
+        "Fung"
+      ],
+      "tags": [
+        "multimodal",
+        "agent"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "google_research_https%3A%2F%2Fresearch.google%2Fblog%2Fi",
       "title": "Introducing Groundsource: Turning news reports into data with Gemini",
       "url": "https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/",
@@ -1942,26 +1943,6 @@
       "sourceIcon": "🔴",
       "type": "news",
       "timestamp": "2026-03-12T08:20:38+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_MachineLearning_t3_1rrkq2h",
-      "title": "[R] On the Structural Limitations of Weight-Based Neural Adaptation and the Role of Reversible Behavioral Learning",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1rrkq2h/r_on_the_structural_limitations_of_weightbased/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-12T08:02:11+00:00",
       "abstract": "",
       "authors": [],
       "tags": [],

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T08:00:37.086Z",
+  "generatedAt": "2026-03-13T09:03:46.077Z",
   "date": "11-03-2026",
   "count": 26,
   "summary": null,
@@ -16,30 +16,6 @@
       "authors": [],
       "tags": [
         "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.11487",
-      "title": "Attention Sinks Are Provably Necessary in Softmax Transformers: Evidence from Trigger-Conditional Tasks",
-      "url": "https://huggingface.co/papers/2603.11487",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-11T23:13:28.000Z",
-      "abstract": "Transformers often display an attention sink: probability mass concentrates on a fixed, content-agnostic position. We prove that computing a simple trigger-conditional behavior necessarily induces a s",
-      "authors": [
-        "Yuval Ran-Milo"
-      ],
-      "tags": [
-        "transformer"
       ],
       "score": 6,
       "priority": "MEDIUM",
@@ -253,6 +229,32 @@
       "tags": [],
       "score": 4,
       "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.11045",
+      "title": "Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation",
+      "url": "https://huggingface.co/papers/2603.11045",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-11T13:59:42.000Z",
+      "abstract": "We propose Neural Field Thermal Tomography (NeFTY), a differentiable physics framework for the quantitative 3D reconstruction of material properties from transient surface temperature measurements. Wh",
+      "authors": [
+        "Tao Zhong",
+        "Yixun Hu",
+        "Dongzhe Zheng",
+        "Aditya Sood",
+        "Christine Allen-Blanchette"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,

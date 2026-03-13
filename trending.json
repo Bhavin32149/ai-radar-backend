@@ -1,36 +1,32 @@
 {
-  "generatedAt": "2026-03-13T08:00:36.890Z",
+  "generatedAt": "2026-03-13T09:03:45.842Z",
   "trending": [
     {
       "tag": "Agent",
-      "count": 33
+      "count": 34
     },
     {
       "tag": "Gemini",
-      "count": 26
+      "count": 28
     },
     {
       "tag": "Ai Agents",
-      "count": 26
+      "count": 27
     },
     {
       "tag": "Llm",
-      "count": 19
-    },
-    {
-      "tag": "Claude",
-      "count": 17
+      "count": 21
     },
     {
       "tag": "Inference",
-      "count": 15
+      "count": 17
+    },
+    {
+      "tag": "Claude",
+      "count": 16
     },
     {
       "tag": "Gpt",
-      "count": 9
-    },
-    {
-      "tag": "Reasoning",
       "count": 9
     },
     {
@@ -39,6 +35,10 @@
     },
     {
       "tag": "Llama",
+      "count": 8
+    },
+    {
+      "tag": "Multimodal",
       "count": 8
     }
   ]
