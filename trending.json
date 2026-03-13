@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T23:48:04.852Z",
+  "generatedAt": "2026-03-13T01:14:56.258Z",
   "trending": [
     {
       "tag": "Agent",
@@ -19,7 +19,7 @@
     },
     {
       "tag": "Inference",
-      "count": 16
+      "count": 18
     },
     {
       "tag": "Claude",
@@ -34,11 +34,11 @@
       "count": 8
     },
     {
-      "tag": "Multimodal",
-      "count": 7
+      "tag": "Llama",
+      "count": 6
     },
     {
-      "tag": "Llama",
+      "tag": "Embeddings",
       "count": 6
     }
   ]

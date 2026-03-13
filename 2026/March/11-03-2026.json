@@ -1,29 +1,9 @@
 {
-  "generatedAt": "2026-03-12T23:48:05.114Z",
+  "generatedAt": "2026-03-13T01:14:56.461Z",
   "date": "11-03-2026",
-  "count": 42,
+  "count": 41,
   "summary": null,
   "items": [
-    {
-      "id": "reddit_LocalLLaMA_t3_1rrax5a",
-      "title": "New Model: LeVo 2 (SongGeneration 2), an open-source music foundation model",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rrax5a/new_model_levo_2_songgeneration_2_an_opensource/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "model",
-      "timestamp": "2026-03-11T23:54:04+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "How to Design a Streaming Decision Agent with Partial Reasoning, Online Replanning, and Reactive Mid-Execution Adaptation in Dynamic Environments",
