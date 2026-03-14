@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-03-14T19:02:05.272Z",
+  "date": "02-12-2025",
+  "count": 1,
+  "summary": null,
+  "items": [
+    {
+      "id": "gh_612344730",
+      "title": "ChatGPTNextWeb/NextChat — ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+      "url": "https://github.com/ChatGPTNextWeb/NextChat",
+      "source": "GitHub",
+      "sourceIcon": "⭐",
+      "type": "tool",
+      "timestamp": "2025-12-02T17:05:02Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "calclaude",
+        "chatgpt",
+        "claude",
+        "cross-platform",
+        "desktop",
+        "fe",
+        "gemini",
+        "gemini-pro",
+        "gemini-server",
+        "gemini-ultra"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 87495,
+      "votes": 0,
+      "points": 0
+    }
+  ]
+}
