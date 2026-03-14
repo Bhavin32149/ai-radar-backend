@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-14T17:49:00.231Z",
+  "generatedAt": "2026-03-14T18:25:47.706Z",
   "date": "13-03-2026",
-  "count": 39,
+  "count": 37,
   "summary": null,
   "items": [
     {
@@ -508,29 +508,6 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1rsuhwl",
-      "title": "I'm fully blind, and AI is a game changer for me. Are there any local LLMS that can rival claude code and codex?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsuhwl/im_fully_blind_and_ai_is_a_game_changer_for_me/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "model",
-      "timestamp": "2026-03-13T17:54:12+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "llm",
-        "claude"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "ars_technica_https%3A%2F%2Farstechnica.com%2Ftech-pol",
       "title": "Another AT&amp;T FirstNet user gets shocking $6,200 bill, at $2 per megabyte",
       "url": "https://arstechnica.com/tech-policy/2026/03/att-wrongly-charged-man-6196-reversed-bill-after-hearing-from-ars/",
@@ -538,26 +515,6 @@
       "sourceIcon": "🔶",
       "type": "news",
       "timestamp": "2026-03-13T17:49:44.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rsucvk",
-      "title": "Lemonade v10: Linux NPU support and chock full of multi-modal capabilities",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsucvk/lemonade_v10_linux_npu_support_and_chock_full_of/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-13T17:49:19+00:00",
       "abstract": "",
       "authors": [],
       "tags": [],
@@ -817,7 +774,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 102072,
+      "stars": 102075,
       "votes": 0,
       "points": 0
     }
