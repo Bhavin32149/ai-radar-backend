@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-14T15:47:45.574Z",
+  "generatedAt": "2026-03-14T16:20:57.838Z",
   "date": "13-03-2026",
-  "count": 42,
+  "count": 41,
   "summary": null,
   "items": [
     {
@@ -690,28 +690,6 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1rsqzua",
-      "title": "I fine-tuned a 14B model that outperforms Claude Opus 4.6 on Ada code generation",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsqzua/i_finetuned_a_14b_model_that_outperforms_claude/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "model",
-      "timestamp": "2026-03-13T15:49:34+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "claude"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "mit_tech_review_https%3A%2F%2Fwww.technologyreview.com%2",
       "title": "Why physical AI is becoming manufacturing’s next advantage",
       "url": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
@@ -878,7 +856,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 102063,
+      "stars": 102066,
       "votes": 0,
       "points": 0
     }

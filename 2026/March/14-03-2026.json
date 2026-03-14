@@ -1,40 +1,9 @@
 {
-  "generatedAt": "2026-03-14T15:47:45.572Z",
+  "generatedAt": "2026-03-14T16:20:57.835Z",
   "date": "14-03-2026",
   "count": 34,
   "summary": null,
   "items": [
-    {
-      "id": "hf_model_Sachin21112004/distilbart-news-summarizer",
-      "title": "Sachin21112004/distilbart-news-summarizer",
-      "url": "https://huggingface.co/Sachin21112004/distilbart-news-summarizer",
-      "source": "HuggingFace Models",
-      "sourceIcon": "🤗",
-      "type": "model",
-      "timestamp": "2026-03-14T15:32:52.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "summarization",
-        "transformers",
-        "pytorch",
-        "jax",
-        "rust",
-        "safetensors",
-        "bart",
-        "text2text-generation",
-        "summarization",
-        "news"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 2951,
-      "likes": 6,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "gh_614765452",
       "title": "Significant-Gravitas/AutoGPT — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provi",
@@ -42,7 +11,7 @@
       "source": "GitHub",
       "sourceIcon": "⭐",
       "type": "tool",
-      "timestamp": "2026-03-14T15:29:39Z",
+      "timestamp": "2026-03-14T15:52:48Z",
       "abstract": "",
       "authors": [],
       "tags": [
@@ -60,7 +29,30 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 182449,
+      "stars": 182450,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "gh_612354784",
+      "title": "ggml-org/llama.cpp — LLM inference in C/C++",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "source": "GitHub",
+      "sourceIcon": "⭐",
+      "type": "tool",
+      "timestamp": "2026-03-14T15:52:03Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "ggml",
+        "C++"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 97909,
       "votes": 0,
       "points": 0
     },
@@ -71,7 +63,7 @@
       "source": "GitHub",
       "sourceIcon": "⭐",
       "type": "tool",
-      "timestamp": "2026-03-14T15:27:56Z",
+      "timestamp": "2026-03-14T15:36:23Z",
       "abstract": "",
       "authors": [],
       "tags": [
@@ -89,7 +81,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 312482,
+      "stars": 312527,
       "votes": 0,
       "points": 0
     },
@@ -120,7 +112,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 179094,
+      "stars": 179097,
       "votes": 0,
       "points": 0
     },
@@ -179,30 +171,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 97688,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_612354784",
-      "title": "ggml-org/llama.cpp — LLM inference in C/C++",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-03-14T15:08:30Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ggml",
-        "C++"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 97908,
+      "stars": 97692,
       "votes": 0,
       "points": 0
     },
@@ -230,7 +199,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 105825,
+      "stars": 105828,
       "votes": 0,
       "points": 0
     },
@@ -281,7 +250,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 132788,
+      "stars": 132792,
       "votes": 0,
       "points": 0
     },
@@ -312,7 +281,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 98953,
+      "stars": 98954,
       "votes": 0,
       "points": 0
     },
@@ -363,7 +332,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 157800,
+      "stars": 157804,
       "votes": 0,
       "points": 0
     },
@@ -476,7 +445,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 152355,
+      "stars": 152360,
       "votes": 0,
       "points": 0
     },
@@ -496,6 +465,29 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "reddit_LocalLLaMA_t3_1rteubl",
+      "title": "Qwen3-Coder-Next with llama.cpp shenanigans",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rteubl/qwen3codernext_with_llamacpp_shenanigans/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "model",
+      "timestamp": "2026-03-14T09:16:57+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "llama",
+        "qwen"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -573,7 +565,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 127154,
+      "stars": 127156,
       "votes": 0,
       "points": 0
     },
@@ -624,7 +616,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 165039,
+      "stars": 165041,
       "votes": 0,
       "points": 0
     },
@@ -725,7 +717,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 129462,
+      "stars": 129464,
       "votes": 0,
       "points": 0
     },
@@ -798,7 +790,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 92875,
+      "stars": 92882,
       "votes": 0,
       "points": 0
     },
