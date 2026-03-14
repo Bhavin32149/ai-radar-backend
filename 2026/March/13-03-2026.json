@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-14T17:19:24.984Z",
+  "generatedAt": "2026-03-14T17:49:00.231Z",
   "date": "13-03-2026",
-  "count": 38,
+  "count": 39,
   "summary": null,
   "items": [
     {
@@ -194,6 +194,28 @@
       "points": 0
     },
     {
+      "id": "reddit_LocalLLaMA_t3_1rsyo23",
+      "title": "Ik_llama vs llamacpp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsyo23/ik_llama_vs_llamacpp/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "news",
+      "timestamp": "2026-03-13T20:25:27+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "llama"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "ars_technica_https%3A%2F%2Farstechnica.com%2Fsecurity",
       "title": "Supply-chain attack using invisible code hits GitHub and other repositories",
       "url": "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/",
@@ -363,6 +385,49 @@
       "points": 0
     },
     {
+      "id": "reddit_LocalLLaMA_t3_1rsww4g",
+      "title": "🔥 New Release: htmLLM-124M v2 – 0.91 Val Loss on a Single T4! tiny-LLM with nanoGPT!",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsww4g/new_release_htmllm124m_v2_091_val_loss_on_a/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "model",
+      "timestamp": "2026-03-13T19:20:03+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "llm",
+        "gpt"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "reddit_LocalLLaMA_t3_1rsw0u3",
+      "title": "Expert parallelism for 1T MoE finetuning on a single node - 50x faster and 2x cheaper than alternatives",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsw0u3/expert_parallelism_for_1t_moe_finetuning_on_a/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "news",
+      "timestamp": "2026-03-13T18:48:56+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "ars_technica_https%3A%2F%2Farstechnica.com%2Fgadgets%",
       "title": "Adobe settles DOJ cancellation fee lawsuit, will pay $75 million penalty",
       "url": "https://arstechnica.com/gadgets/2026/03/adobe-settles-doj-cancellation-fee-lawsuit-will-pay-75-million-penalty/",
@@ -499,48 +564,6 @@
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rsthhp",
-      "title": "Real-time video captioning in the browser with LFM2-VL on WebGPU",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsthhp/realtime_video_captioning_in_the_browser_with/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-13T17:18:51+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rstcy3",
-      "title": "Fine-tuned Qwen 3.5 2B to beat same-quant 4B, 9B, 27B, and 35B on a real dictation cleanup task, full pipeline, code, and eval (RTX 4080 Super, under £1 compute)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rstcy3/finetuned_qwen_35_2b_to_beat_samequant_4b_9b_27b/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-13T17:14:26+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "qwen"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -794,7 +817,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 102068,
+      "stars": 102072,
       "votes": 0,
       "points": 0
     }
