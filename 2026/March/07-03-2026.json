@@ -1,40 +1,9 @@
 {
-  "generatedAt": "2026-03-14T19:02:05.260Z",
+  "generatedAt": "2026-03-14T19:45:39.191Z",
   "date": "07-03-2026",
-  "count": 2,
+  "count": 1,
   "summary": null,
   "items": [
-    {
-      "id": "gh_669879380",
-      "title": "rasbt/LLMs-from-scratch — Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-      "url": "https://github.com/rasbt/LLMs-from-scratch",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-03-07T23:05:50Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ai",
-        "artificial-intelligence",
-        "chatbot",
-        "chatgpt",
-        "deep-learning",
-        "from-scratch",
-        "generative-ai",
-        "gpt",
-        "language-model",
-        "large-language-models"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 88031,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "hf_paper_2603.07331",
       "title": "Causal Attribution of Coastal Water Clarity Degradation to Nickel Processing Expansion at the Indonesia Morowali Industrial Park, Sulawesi",

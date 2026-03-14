@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-14T19:02:05.258Z",
+  "generatedAt": "2026-03-14T19:45:39.190Z",
   "date": "09-03-2026",
-  "count": 12,
+  "count": 13,
   "summary": null,
   "items": [
     {
@@ -231,7 +231,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 130972,
+      "stars": 130976,
       "votes": 0,
       "points": 0
     },
@@ -278,6 +278,37 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "gh_655806940",
+      "title": "microsoft/generative-ai-for-beginners — 21 Lessons, Get Started Building with Generative AI",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "source": "GitHub",
+      "sourceIcon": "⭐",
+      "type": "tool",
+      "timestamp": "2026-03-09T03:43:52Z",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "ai",
+        "azure",
+        "chatgpt",
+        "dall-e",
+        "generative-ai",
+        "generativeai",
+        "gpt",
+        "language-model",
+        "llms",
+        "microsoft-for-beginners"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 107997,
       "votes": 0,
       "points": 0
     }
