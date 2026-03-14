@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-14T22:49:59.570Z",
+  "generatedAt": "2026-03-14T23:18:54.327Z",
   "date": "13-03-2026",
-  "count": 26,
+  "count": 25,
   "summary": null,
   "items": [
     {
@@ -17,28 +17,6 @@
       "tags": [
         "agent",
         "autonomous"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rt2eaf",
-      "title": "Besides Qwen and GLM, what models are you using?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rt2eaf/besides_qwen_and_glm_what_models_are_you_using/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-13T22:49:37+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "qwen"
       ],
       "score": 8,
       "priority": "HIGH",
@@ -541,7 +519,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 102101,
+      "stars": 102102,
       "votes": 0,
       "points": 0
     }
