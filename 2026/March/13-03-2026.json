@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-14T10:19:04.834Z",
+  "generatedAt": "2026-03-14T11:16:39.884Z",
   "date": "13-03-2026",
-  "count": 50,
+  "count": 48,
   "summary": null,
   "items": [
     {
@@ -134,6 +134,28 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "reddit_LocalLLaMA_t3_1rt0g8y",
+      "title": "How to fix prompt reprocessing in qwen3.5 models (instruct mode only)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rt0g8y/how_to_fix_prompt_reprocessing_in_qwen35_models/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "news",
+      "timestamp": "2026-03-13T21:32:21+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "qwen"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -867,70 +889,6 @@
       "points": 0
     },
     {
-      "id": "reddit_MachineLearning_t3_1rsjvln",
-      "title": "[D] ICLR 2026 poster format for main conference posters?",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1rsjvln/d_iclr_2026_poster_format_for_main_conference/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-13T10:40:32+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rsjprm",
-      "title": "Oh Deepseek V4, where art thou?",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsjprm/oh_deepseek_v4_where_art_thou/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-13T10:31:12+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "deepseek"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rsjeip",
-      "title": "qwen3.5-35b-a3b is a gem",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsjeip/qwen3535ba3b_is_a_gem/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-13T10:13:14+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "qwen"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "ai_news_https%3A%2F%2Fwww.artificialintelligence",
       "title": "E.SUN Bank and IBM build AI governance framework for banking",
       "url": "https://www.artificialintelligence-news.com/news/e-sun-bank-and-ibm-build-ai-governance-framework-for-banking/",
@@ -1057,7 +1015,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 102029,
+      "stars": 102036,
       "votes": 0,
       "points": 0
     }
