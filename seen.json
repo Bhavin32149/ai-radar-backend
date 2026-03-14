@@ -24,7 +24,6 @@
   "https://huggingface.co/papers/2603.12250",
   "https://huggingface.co/papers/2603.12145",
   "https://huggingface.co/papers/2603.07534",
-  "https://huggingface.co/stanfordnlp/stanza-pl",
   "https://huggingface.co/nphSi/Z-Image-Lora",
   "https://arxiv.org/abs/2603.12261v1",
   "https://arxiv.org/abs/2507.08800v2",
@@ -61,8 +60,8 @@
   "https://github.com/google-gemini/gemini-cli",
   "https://github.com/firecrawl/firecrawl",
   "https://www.reddit.com/r/LocalLLaMA/comments/1rsunqq/i_feel_personally_attacked/",
-  "https://www.reddit.com/r/LocalLLaMA/comments/1rsrc1j/avacado_is_toast/",
   "https://www.reddit.com/r/LocalLLaMA/comments/1rsuhwl/im_fully_blind_and_ai_is_a_game_changer_for_me/",
+  "https://www.reddit.com/r/LocalLLaMA/comments/1rsrc1j/avacado_is_toast/",
   "https://www.reddit.com/r/LocalLLaMA/comments/1rsucvk/lemonade_v10_linux_npu_support_and_chock_full_of/",
   "https://www.reddit.com/r/LocalLLaMA/comments/1rsz8k6/2000_tps_with_qwen_35_27b_on_rtx5090/",
   "https://www.reddit.com/r/LocalLLaMA/comments/1rsjeip/qwen3535ba3b_is_a_gem/",
@@ -70,8 +69,8 @@
   "https://www.reddit.com/r/LocalLLaMA/comments/1rsv70y/why_cant_we_have_small_sotalike_models_for_coding/",
   "https://www.reddit.com/r/LocalLLaMA/comments/1rspm10/running_qwen3535ba3b_and_nemotron3super120ba12b/",
   "https://www.reddit.com/r/LocalLLaMA/comments/1rt9nfx/nemotron3super120b_uncensored/",
-  "https://www.reddit.com/r/LocalLLaMA/comments/1rsnp63/turn_10000_api_endpoints_into_one_cli_tool/",
   "https://www.reddit.com/r/LocalLLaMA/comments/1rsx96o/what_nonchinese_models_are_relevant_right_now/",
+  "https://www.reddit.com/r/LocalLLaMA/comments/1rsnp63/turn_10000_api_endpoints_into_one_cli_tool/",
   "https://www.reddit.com/r/LocalLLaMA/comments/1rso48p/cli_is_all_agents_need_part_2_misconceptions/",
   "https://www.reddit.com/r/LocalLLaMA/comments/1rsjprm/oh_deepseek_v4_where_art_thou/",
   "https://www.reddit.com/r/LocalLLaMA/comments/1rstcy3/finetuned_qwen_35_2b_to_beat_samequant_4b_9b_27b/",
@@ -228,5 +227,6 @@
   "https://research.google/blog/teaching-ai-to-read-a-map/",
   "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/",
   "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/",
-  "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/"
+  "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/",
+  "https://www.reddit.com/r/LocalLLaMA/comments/1rsthhp/realtime_video_captioning_in_the_browser_with/"
 ]

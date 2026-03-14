@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-14T09:30:56.925Z",
+  "generatedAt": "2026-03-14T10:19:04.834Z",
   "date": "13-03-2026",
-  "count": 49,
+  "count": 50,
   "summary": null,
   "items": [
     {
@@ -31,7 +31,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 157787,
+      "stars": 157789,
       "votes": 0,
       "points": 0
     },
@@ -502,6 +502,26 @@
       "sourceIcon": "🔴",
       "type": "news",
       "timestamp": "2026-03-13T17:49:19+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "reddit_LocalLLaMA_t3_1rsthhp",
+      "title": "Real-time video captioning in the browser with LFM2-VL on WebGPU",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsthhp/realtime_video_captioning_in_the_browser_with/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "news",
+      "timestamp": "2026-03-13T17:18:51+00:00",
       "abstract": "",
       "authors": [],
       "tags": [],
