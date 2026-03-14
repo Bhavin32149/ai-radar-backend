@@ -1,40 +1,9 @@
 {
-  "generatedAt": "2026-03-14T13:39:24.545Z",
+  "generatedAt": "2026-03-14T14:20:39.056Z",
   "date": "13-03-2026",
-  "count": 44,
+  "count": 43,
   "summary": null,
   "items": [
-    {
-      "id": "gh_155220641",
-      "title": "huggingface/transformers — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text",
-      "url": "https://github.com/huggingface/transformers",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-03-13T23:15:04Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "audio",
-        "deep-learning",
-        "deepseek",
-        "gemma",
-        "glm",
-        "hacktoberfest",
-        "llm",
-        "machine-learning",
-        "model-hub",
-        "natural-language-processing"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 157794,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "Google DeepMind Introduces Aletheia: The AI Agent Moving from Math Competitions to Fully Autonomous Professional Research Discoveries",
@@ -134,6 +103,28 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "reddit_LocalLLaMA_t3_1rt0g8y",
+      "title": "How to fix prompt reprocessing in qwen3.5 models (instruct mode only)",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rt0g8y/how_to_fix_prompt_reprocessing_in_qwen35_models/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "news",
+      "timestamp": "2026-03-13T21:32:21+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "qwen"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -784,26 +775,6 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1rsnp63",
-      "title": "Turn 10,000 API endpoints into one CLI tool instead of MCP, Skills and tools zoo",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsnp63/turn_10000_api_endpoints_into_one_cli_tool/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "tool",
-      "timestamp": "2026-03-13T13:43:56+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Fpeople-h",
       "title": "People Hate Datacenters, Survey Finds",
       "url": "https://www.404media.co/people-hate-datacenters-survey-finds/",
@@ -930,7 +901,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 102045,
+      "stars": 102050,
       "votes": 0,
       "points": 0
     }
