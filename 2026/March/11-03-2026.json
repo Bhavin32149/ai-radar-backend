@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-14T08:57:39.468Z",
+  "generatedAt": "2026-03-14T09:30:56.927Z",
   "date": "11-03-2026",
-  "count": 26,
+  "count": 25,
   "summary": null,
   "items": [
     {
@@ -524,28 +524,6 @@
       ],
       "score": 4,
       "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
-      "title": "How to Build a Self-Designing Meta-Agent That Automatically Constructs, Instantiates, and Refines Task-Specific AI Agents",
-      "url": "https://www.marktechpost.com/2026/03/10/how-to-build-a-self-designing-meta-agent-that-automatically-constructs-instantiates-and-refines-task-specific-ai-agents/",
-      "source": "MarkTechPost",
-      "sourceIcon": "📘",
-      "type": "research",
-      "timestamp": "2026-03-11T04:23:22.000Z",
-      "abstract": "In this tutorial, we build a Meta-Agent that designs other agents automatically from a simple task description. We implement a system that analyzes the task, selects tools, chooses a memory architectu",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
