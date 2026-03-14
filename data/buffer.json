@@ -5207,5 +5207,47 @@
     "stars": 0,
     "votes": 0,
     "points": 0
+  },
+  {
+    "id": "reddit_LocalLLaMA_t3_1rtrdsv",
+    "title": "55 → 282 tok/s: How I got Qwen3.5-397B running at speed on 4x RTX PRO 6000 Blackwell",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rtrdsv/55_282_toks_how_i_got_qwen35397b_running_at_speed/",
+    "source": "Reddit r/LocalLLaMA",
+    "sourceIcon": "🔴",
+    "type": "news",
+    "timestamp": "2026-03-14T18:46:41+00:00",
+    "abstract": "",
+    "authors": [],
+    "tags": [
+      "qwen"
+    ],
+    "score": 8,
+    "priority": "HIGH",
+    "sentiment": "positive",
+    "downloads": 0,
+    "likes": 0,
+    "stars": 0,
+    "votes": 0,
+    "points": 0
+  },
+  {
+    "id": "reddit_LocalLLaMA_t3_1rtrmp1",
+    "title": "StepFun releases SFT dataset used to train Step 3.5 Flash",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rtrmp1/stepfun_releases_sft_dataset_used_to_train_step/",
+    "source": "Reddit r/LocalLLaMA",
+    "sourceIcon": "🔴",
+    "type": "news",
+    "timestamp": "2026-03-14T18:56:21+00:00",
+    "abstract": "",
+    "authors": [],
+    "tags": [],
+    "score": 6,
+    "priority": "MEDIUM",
+    "sentiment": "neutral",
+    "downloads": 0,
+    "likes": 0,
+    "stars": 0,
+    "votes": 0,
+    "points": 0
   }
 ]
