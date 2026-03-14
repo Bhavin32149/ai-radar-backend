@@ -1,40 +1,9 @@
 {
-  "generatedAt": "2026-03-14T05:06:14.961Z",
+  "generatedAt": "2026-03-14T06:03:43.180Z",
   "date": "13-03-2026",
-  "count": 53,
+  "count": 51,
   "summary": null,
   "items": [
-    {
-      "id": "gh_193215554",
-      "title": "n8n-io/n8n — Fair-code workflow automation platform with native AI capabilities. Combine visual building with cus",
-      "url": "https://github.com/n8n-io/n8n",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-03-13T23:38:57Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ai",
-        "apis",
-        "automation",
-        "cli",
-        "data-flow",
-        "development",
-        "integration-framework",
-        "integrations",
-        "ipaas",
-        "low-code"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 179030,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "gh_155220641",
       "title": "huggingface/transformers — 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text",
@@ -62,7 +31,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 157778,
+      "stars": 157781,
       "votes": 0,
       "points": 0
     },
@@ -83,30 +52,6 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_MachineLearning_t3_1rt2fpb",
-      "title": "[P] zer0dex - dual-layer memory for local LLM agents: 91.2% recall vs 80.3% R.A.G. across 97 benchmarked cases",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1rt2fpb/p_zer0dex_duallayer_memory_for_local_llm_agents/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "model",
-      "timestamp": "2026-03-13T22:51:10+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "llm",
-        "agent",
-        "benchmark"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -376,6 +321,26 @@
       ],
       "score": 6,
       "priority": "MEDIUM",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "reddit_LocalLLaMA_t3_1rsx96o",
+      "title": "What non-Chinese models are relevant right now?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsx96o/what_nonchinese_models_are_relevant_right_now/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "news",
+      "timestamp": "2026-03-13T19:33:25+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
@@ -878,6 +843,28 @@
       "points": 0
     },
     {
+      "id": "reddit_LocalLLaMA_t3_1rsjprm",
+      "title": "Oh Deepseek V4, where art thou?",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsjprm/oh_deepseek_v4_where_art_thou/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "news",
+      "timestamp": "2026-03-13T10:31:12+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "deepseek"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "reddit_LocalLLaMA_t3_1rsjeip",
       "title": "qwen3.5-35b-a3b is a gem",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsjeip/qwen3535ba3b_is_a_gem/",
@@ -1045,50 +1032,6 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1rsen7t",
-      "title": "Tenstorrent QuietBox 2 Brings RISC-V AI Inference to the Desktop",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsen7t/tenstorrent_quietbox_2_brings_riscv_ai_inference/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-13T05:21:57+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "inference"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rselsf",
-      "title": "Rick Beato: &quot;How AI Will Fail Like The Music Industry&quot; (and why local LLMs will take over &quot;commercial&quot; ones)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rselsf/rick_beato_how_ai_will_fail_like_the_music/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-13T05:19:47+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "llm"
-      ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F03",
       "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
       "url": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/",
@@ -1130,7 +1073,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 102007,
+      "stars": 102013,
       "votes": 0,
       "points": 0
     }

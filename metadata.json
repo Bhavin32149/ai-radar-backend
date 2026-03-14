@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-03-14T05:06:14.990Z",
-  "todayCount": 24,
-  "highCount": 4,
-  "mediumCount": 14,
+  "lastUpdated": "2026-03-14T06:03:43.208Z",
+  "todayCount": 23,
+  "highCount": 2,
+  "mediumCount": 15,
   "topTrending": [
     {
       "tag": "Gemini",
@@ -10,11 +10,11 @@
     },
     {
       "tag": "Agent",
-      "count": 27
+      "count": 26
     },
     {
       "tag": "Ai Agents",
-      "count": 23
+      "count": 22
     }
   ],
   "version": "2.0.0",
