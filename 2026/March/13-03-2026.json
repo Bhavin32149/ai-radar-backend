@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-14T15:19:35.396Z",
+  "generatedAt": "2026-03-14T15:47:45.574Z",
   "date": "13-03-2026",
-  "count": 43,
+  "count": 42,
   "summary": null,
   "items": [
     {
@@ -187,6 +187,28 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "reddit_LocalLLaMA_t3_1rsyo23",
+      "title": "Ik_llama vs llamacpp",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsyo23/ik_llama_vs_llamacpp/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "news",
+      "timestamp": "2026-03-13T20:25:27+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [
+        "llama"
+      ],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -710,49 +732,6 @@
       "points": 0
     },
     {
-      "id": "reddit_MachineLearning_t3_1rspvy7",
-      "title": "[D] Telecom modernization on legacy OSS, what actually worked for ML data extraction",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1rspvy7/d_telecom_modernization_on_legacy_oss_what/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-13T15:08:03+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rspm10",
-      "title": "Running Qwen3.5-35B-A3B and Nemotron-3-Super-120B-A12B on a 5060ti and 1080ti with llama.cpp (Fully on GPU for Qwen; 64GB RAM needed for Nemotron)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rspm10/running_qwen3535ba3b_and_nemotron3super120ba12b/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "model",
-      "timestamp": "2026-03-13T14:57:52+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "llama",
-        "qwen"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F03",
       "title": "Peacock expands into AI-driven video, mobile-first live sports, and gaming",
       "url": "https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/",
@@ -899,7 +878,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 102062,
+      "stars": 102063,
       "votes": 0,
       "points": 0
     }
