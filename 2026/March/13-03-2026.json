@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-14T14:20:39.056Z",
+  "generatedAt": "2026-03-14T14:52:09.060Z",
   "date": "13-03-2026",
   "count": 43,
   "summary": null,
@@ -506,6 +506,26 @@
       "points": 0
     },
     {
+      "id": "reddit_LocalLLaMA_t3_1rsthhp",
+      "title": "Real-time video captioning in the browser with LFM2-VL on WebGPU",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsthhp/realtime_video_captioning_in_the_browser_with/",
+      "source": "Reddit r/LocalLLaMA",
+      "sourceIcon": "🔴",
+      "type": "news",
+      "timestamp": "2026-03-13T17:18:51+00:00",
+      "abstract": "",
+      "authors": [],
+      "tags": [],
+      "score": 4,
+      "priority": "LOW",
+      "sentiment": "neutral",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
       "id": "reddit_LocalLLaMA_t3_1rstcy3",
       "title": "Fine-tuned Qwen 3.5 2B to beat same-quant 4B, 9B, 27B, and 35B on a real dictation cleanup task, full pipeline, code, and eval (RTX 4080 Super, under £1 compute)",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rstcy3/finetuned_qwen_35_2b_to_beat_samequant_4b_9b_27b/",
@@ -733,28 +753,6 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1rso48p",
-      "title": "CLI is All Agents Need — Part 2: Misconceptions, Patterns, and Open Questions",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rso48p/cli_is_all_agents_need_part_2_misconceptions/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-13T14:00:40+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F03",
       "title": "Peacock expands into AI-driven video, mobile-first live sports, and gaming",
       "url": "https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/",
@@ -901,7 +899,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 102050,
+      "stars": 102058,
       "votes": 0,
       "points": 0
     }

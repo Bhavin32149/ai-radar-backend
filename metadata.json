@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T14:20:39.084Z",
+  "lastUpdated": "2026-03-14T14:52:09.089Z",
   "todayCount": 31,
   "highCount": 3,
   "mediumCount": 14,
@@ -10,10 +10,10 @@
     },
     {
       "tag": "Agent",
-      "count": 26
+      "count": 25
     },
     {
-      "tag": "Ai Agents",
+      "tag": "Claude",
       "count": 22
     }
   ],
