@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-13T23:49:14.887Z",
+  "generatedAt": "2026-03-14T01:13:39.101Z",
   "trending": [
     {
       "tag": "Gemini",
@@ -15,11 +15,11 @@
     },
     {
       "tag": "Llm",
-      "count": 21
+      "count": 22
     },
     {
       "tag": "Claude",
-      "count": 18
+      "count": 20
     },
     {
       "tag": "Inference",
@@ -34,12 +34,12 @@
       "count": 8
     },
     {
-      "tag": "Multimodal",
+      "tag": "Reasoning",
       "count": 8
     },
     {
-      "tag": "Embeddings",
-      "count": 7
+      "tag": "Multimodal",
+      "count": 8
     }
   ]
 }

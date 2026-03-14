@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-13T23:49:15.087Z",
+  "generatedAt": "2026-03-14T01:13:39.397Z",
   "date": "09-03-2026",
-  "count": 12,
+  "count": 13,
   "summary": null,
   "items": [
     {
@@ -231,7 +231,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 130770,
+      "stars": 130777,
       "votes": 0,
       "points": 0
     },
@@ -249,6 +249,32 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "hf_paper_2603.08258",
+      "title": "WaDi: Weight Direction-aware Distillation for One-step Image Synthesis",
+      "url": "https://huggingface.co/papers/2603.08258",
+      "source": "HuggingFace Papers",
+      "sourceIcon": "🤗",
+      "type": "research",
+      "timestamp": "2026-03-09T07:27:28.000Z",
+      "abstract": "Despite the impressive performance of diffusion models such as Stable Diffusion (SD) in image generation, their slow inference limits practical deployment. Recent works accelerate inference by distill",
+      "authors": [
+        "Lei Wang",
+        "Yang Cheng",
+        "Senmao Li",
+        "Ge Wu",
+        "Yaxing Wang"
+      ],
+      "tags": [],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -282,7 +308,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 107944,
+      "stars": 107943,
       "votes": 0,
       "points": 0
     }

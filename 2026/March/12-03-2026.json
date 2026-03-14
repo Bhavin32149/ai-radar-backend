@@ -1,51 +1,9 @@
 {
-  "generatedAt": "2026-03-13T23:49:15.084Z",
+  "generatedAt": "2026-03-14T01:13:39.395Z",
   "date": "12-03-2026",
-  "count": 47,
+  "count": 45,
   "summary": null,
   "items": [
-    {
-      "id": "techcrunch_ai_https%3A%2F%2Ftechcrunch.com%2F2026%2F03",
-      "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote",
-      "url": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
-      "source": "TechCrunch AI",
-      "sourceIcon": "💚",
-      "type": "news",
-      "timestamp": "2026-03-12T23:25:39.000Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rs6td4",
-      "title": "OmniCoder-9B | 9B coding agent fine-tuned on 425K agentic trajectories",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rs6td4/omnicoder9b_9b_coding_agent_finetuned_on_425k/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-12T23:22:24+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "agent"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "How to Build an Autonomous Machine Learning Research Loop in Google Colab Using Andrej Karpathy’s AutoResearch Framework for Hyperparameter Discovery and Experiment Tracking",

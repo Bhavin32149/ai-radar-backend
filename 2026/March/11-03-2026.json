@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-13T23:49:15.085Z",
+  "generatedAt": "2026-03-14T01:13:39.396Z",
   "date": "11-03-2026",
-  "count": 27,
+  "count": 26,
   "summary": null,
   "items": [
     {
@@ -576,34 +576,6 @@
       "score": 6,
       "priority": "MEDIUM",
       "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "hf_paper_2603.10420",
-      "title": "FireRedASR2S: A State-of-the-Art Industrial-Grade All-in-One Automatic Speech Recognition System",
-      "url": "https://huggingface.co/papers/2603.10420",
-      "source": "HuggingFace Papers",
-      "sourceIcon": "🤗",
-      "type": "research",
-      "timestamp": "2026-03-11T01:11:06.000Z",
-      "abstract": "We present FireRedASR2S, a state-of-the-art industrial-grade all-in-one automatic speech recognition (ASR) system. It integrates four modules in a unified pipeline: ASR, Voice Activity Detection (VAD)",
-      "authors": [
-        "Kaituo Xu",
-        "Yan Jia",
-        "Kai Huang",
-        "Junjie Chen",
-        "Wenpeng Li"
-      ],
-      "tags": [
-        "speech"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
