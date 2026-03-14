@@ -5166,5 +5166,25 @@
     "stars": 0,
     "votes": 0,
     "points": 0
+  },
+  {
+    "id": "reddit_LocalLLaMA_t3_1rsthhp",
+    "title": "Real-time video captioning in the browser with LFM2-VL on WebGPU",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rsthhp/realtime_video_captioning_in_the_browser_with/",
+    "source": "Reddit r/LocalLLaMA",
+    "sourceIcon": "🔴",
+    "type": "news",
+    "timestamp": "2026-03-13T17:18:51+00:00",
+    "abstract": "",
+    "authors": [],
+    "tags": [],
+    "score": 4,
+    "priority": "LOW",
+    "sentiment": "neutral",
+    "downloads": 0,
+    "likes": 0,
+    "stars": 0,
+    "votes": 0,
+    "points": 0
   }
 ]
