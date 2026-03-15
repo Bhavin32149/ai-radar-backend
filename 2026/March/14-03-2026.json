@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-15T14:22:08.226Z",
+  "generatedAt": "2026-03-15T14:53:16.192Z",
   "date": "14-03-2026",
-  "count": 28,
+  "count": 27,
   "summary": null,
   "items": [
     {
@@ -155,7 +155,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 129545,
+      "stars": 129551,
       "votes": 0,
       "points": 0
     },
@@ -348,26 +348,6 @@
       "points": 0
     },
     {
-      "id": "reddit_MachineLearning_t3_1rtkazr",
-      "title": "[D] ACL ARR 2026 Jan cycle — Does the commitment track have to match the track chosen during ARR submission?",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1rtkazr/d_acl_arr_2026_jan_cycle_does_the_commitment/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-14T14:06:01+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Falien-li",
       "title": "Alien Life Might Exist on the Starless Moons of Rogue Planets, Scientists Say",
       "url": "https://www.404media.co/alien-life-might-exist-on-the-starless-moons-of-rogue-planets-scientists-say/",
@@ -458,7 +438,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 127275,
+      "stars": 127279,
       "votes": 0,
       "points": 0
     },
@@ -509,7 +489,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 165123,
+      "stars": 165127,
       "votes": 0,
       "points": 0
     },
