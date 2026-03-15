@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-14T23:48:33.764Z",
+  "generatedAt": "2026-03-15T01:25:44.925Z",
   "trending": [
     {
       "tag": "Gemini",
@@ -22,12 +22,12 @@
       "count": 18
     },
     {
-      "tag": "Inference",
-      "count": 13
+      "tag": "Gpt",
+      "count": 12
     },
     {
-      "tag": "Gpt",
-      "count": 10
+      "tag": "Inference",
+      "count": 12
     },
     {
       "tag": "Python",
