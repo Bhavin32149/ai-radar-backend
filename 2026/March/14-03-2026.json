@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-15T05:48:50.110Z",
+  "generatedAt": "2026-03-15T06:44:45.742Z",
   "date": "14-03-2026",
-  "count": 37,
+  "count": 39,
   "summary": null,
   "items": [
     {
@@ -104,7 +104,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 157812,
+      "stars": 157811,
       "votes": 0,
       "points": 0
     },
@@ -217,7 +217,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 129496,
+      "stars": 129494,
       "votes": 0,
       "points": 0
     },
@@ -381,6 +381,28 @@
       "score": 8,
       "priority": "HIGH",
       "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "siliconangle_ai_https%3A%2F%2Fsiliconangle.com%2F2026%2F",
+      "title": "Twenty years in, Amazon S3 finds itself at the center of AWS’ push beyond storage",
+      "url": "https://siliconangle.com/2026/03/14/amazon-s3-anniversary-marks-20-years-evolution-awspiday/",
+      "source": "SiliconANGLE AI",
+      "sourceIcon": "📐",
+      "type": "news",
+      "timestamp": "2026-03-14T15:00:53.000Z",
+      "abstract": "For Amazon Web Services Inc., this year’s Amazon S3 anniversary marks more than a milestone — it underscores S3’s rise from an internal utility to a pillar of cloud infrastructure and beyond. Commemor",
+      "authors": [],
+      "tags": [
+        "rag"
+      ],
+      "score": 6,
+      "priority": "MEDIUM",
+      "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
       "stars": 0,
@@ -665,7 +687,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 127227,
+      "stars": 127232,
       "votes": 0,
       "points": 0
     },
@@ -716,7 +738,29 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 165080,
+      "stars": 165085,
+      "votes": 0,
+      "points": 0
+    },
+    {
+      "id": "siliconangle_ai_https%3A%2F%2Fsiliconangle.com%2F2026%2F",
+      "title": "Uber co-founder Travis Kalanick launches robotics venture Atoms",
+      "url": "https://siliconangle.com/2026/03/13/uber-co-founder-travis-kalanick-launches-robotics-venture-atoms/",
+      "source": "SiliconANGLE AI",
+      "sourceIcon": "📐",
+      "type": "news",
+      "timestamp": "2026-03-14T01:41:16.000Z",
+      "abstract": "Travis Kalanick, the billionaire co-founder of Uber Technologies Inc., today announced the launch of a new robotics startup. Atoms Inc. is built on the assets of a company called City Storage Systems",
+      "authors": [],
+      "tags": [
+        "robotics"
+      ],
+      "score": 8,
+      "priority": "HIGH",
+      "sentiment": "positive",
+      "downloads": 0,
+      "likes": 0,
+      "stars": 0,
       "votes": 0,
       "points": 0
     },
@@ -767,7 +811,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 93138,
+      "stars": 93163,
       "votes": 0,
       "points": 0
     },
