@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-15T07:38:26.501Z",
+  "generatedAt": "2026-03-15T08:26:52.790Z",
   "date": "14-03-2026",
-  "count": 38,
+  "count": 37,
   "summary": null,
   "items": [
     {
@@ -75,7 +75,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 157811,
+      "stars": 157814,
       "votes": 0,
       "points": 0
     },
@@ -658,7 +658,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 127235,
+      "stars": 127241,
       "votes": 0,
       "points": 0
     },
@@ -709,7 +709,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 165089,
+      "stars": 165088,
       "votes": 0,
       "points": 0
     },
@@ -752,37 +752,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_787076358",
-      "title": "firecrawl/firecrawl — 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-03-14T00:18:42Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ai",
-        "ai-agents",
-        "ai-crawler",
-        "ai-scraping",
-        "ai-search",
-        "crawler",
-        "data-extraction",
-        "html-to-markdown",
-        "llm",
-        "markdown"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 93179,
       "votes": 0,
       "points": 0
     },
