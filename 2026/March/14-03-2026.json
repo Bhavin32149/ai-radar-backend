@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-15T14:53:16.192Z",
+  "generatedAt": "2026-03-15T15:20:49.032Z",
   "date": "14-03-2026",
-  "count": 27,
+  "count": 24,
   "summary": null,
   "items": [
     {
@@ -17,26 +17,6 @@
       "tags": [
         "llama"
       ],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "reddit_LocalLLaMA_t3_1rtwxco",
-      "title": "I compared 8 AI coding models on the same real-world feature in an open-source TypeScript project. Here are the results",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rtwxco/i_compared_8_ai_coding_models_on_the_same/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-14T22:27:32+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
       "score": 4,
       "priority": "LOW",
       "sentiment": "neutral",
@@ -125,37 +105,6 @@
       "downloads": 0,
       "likes": 0,
       "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
-      "id": "gh_552661142",
-      "title": "langchain-ai/langchain — The agent engineering platform",
-      "url": "https://github.com/langchain-ai/langchain",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-03-14T17:22:42Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "agents",
-        "ai",
-        "ai-agents",
-        "anthropic",
-        "chatgpt",
-        "deepagents",
-        "enterprise",
-        "framework",
-        "gemini",
-        "generative-ai"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 129551,
       "votes": 0,
       "points": 0
     },
@@ -328,26 +277,6 @@
       "points": 0
     },
     {
-      "id": "reddit_MachineLearning_t3_1rtled3",
-      "title": "[D] Need advice on handling a difficult ACL ARR situation",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1rtled3/d_need_advice_on_handling_a_difficult_acl_arr/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-14T14:51:49+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 4,
-      "priority": "LOW",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "404_media_https%3A%2F%2Fwww.404media.co%2Falien-li",
       "title": "Alien Life Might Exist on the Starless Moons of Rogue Planets, Scientists Say",
       "url": "https://www.404media.co/alien-life-might-exist-on-the-starless-moons-of-rogue-planets-scientists-say/",
@@ -438,7 +367,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 127279,
+      "stars": 127283,
       "votes": 0,
       "points": 0
     },
@@ -489,7 +418,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 165127,
+      "stars": 165134,
       "votes": 0,
       "points": 0
     },
