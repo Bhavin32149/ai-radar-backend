@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-15T15:20:49.032Z",
+  "generatedAt": "2026-03-15T15:49:59.471Z",
   "date": "14-03-2026",
-  "count": 24,
+  "count": 23,
   "summary": null,
   "items": [
     {
@@ -233,28 +233,6 @@
       "points": 0
     },
     {
-      "id": "reddit_LocalLLaMA_t3_1rtm7bf",
-      "title": "Qwen3.5 35b is sure one the best local model (pulling above its weight)",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rtm7bf/qwen35_35b_is_sure_one_the_best_local_model/",
-      "source": "Reddit r/LocalLLaMA",
-      "sourceIcon": "🔴",
-      "type": "model",
-      "timestamp": "2026-03-14T15:24:34+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "qwen"
-      ],
-      "score": 8,
-      "priority": "HIGH",
-      "sentiment": "positive",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "siliconangle_ai_https%3A%2F%2Fsiliconangle.com%2F2026%2F",
       "title": "Twenty years in, Amazon S3 finds itself at the center of AWS’ push beyond storage",
       "url": "https://siliconangle.com/2026/03/14/amazon-s3-anniversary-marks-20-years-evolution-awspiday/",
@@ -367,7 +345,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 127283,
+      "stars": 127290,
       "votes": 0,
       "points": 0
     },
@@ -418,7 +396,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 165134,
+      "stars": 165146,
       "votes": 0,
       "points": 0
     },
