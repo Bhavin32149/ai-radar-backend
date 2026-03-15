@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-03-15T11:45:44.063Z",
+  "generatedAt": "2026-03-15T12:33:03.682Z",
   "date": "14-03-2026",
-  "count": 31,
+  "count": 30,
   "summary": null,
   "items": [
     {
@@ -155,7 +155,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 129527,
+      "stars": 129531,
       "votes": 0,
       "points": 0
     },
@@ -450,26 +450,6 @@
       "points": 0
     },
     {
-      "id": "reddit_MachineLearning_t3_1rth86s",
-      "title": "[D] Reported our meta-reviewer in this ARR cycle — no response yet. Should we commit to ACL or should we go with March 2026 cycle with explaining how meta reviews are wrong in revision doc?",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1rth86s/d_reported_our_metareviewer_in_this_arr_cycle_no/",
-      "source": "Reddit r/MachineLearning",
-      "sourceIcon": "🔴",
-      "type": "news",
-      "timestamp": "2026-03-14T11:40:04+00:00",
-      "abstract": "",
-      "authors": [],
-      "tags": [],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 0,
-      "votes": 0,
-      "points": 0
-    },
-    {
       "id": "marktechpost_https%3A%2F%2Fwww.marktechpost.com%2F202",
       "title": "Garry Tan Releases gstack: An Open-Source Claude Code System for Planning, Code Review, QA, and Shipping",
       "url": "https://www.marktechpost.com/2026/03/14/garry-tan-releases-gstack-an-open-source-claude-code-system-for-planning-code-review-qa-and-shipping/",
@@ -518,7 +498,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 127261,
+      "stars": 127265,
       "votes": 0,
       "points": 0
     },
@@ -569,7 +549,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 165112,
+      "stars": 165115,
       "votes": 0,
       "points": 0
     },
