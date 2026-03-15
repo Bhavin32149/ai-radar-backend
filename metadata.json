@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-03-15T16:54:55.994Z",
-  "todayCount": 41,
-  "highCount": 10,
+  "lastUpdated": "2026-03-15T17:20:18.309Z",
+  "todayCount": 39,
+  "highCount": 8,
   "mediumCount": 15,
   "topTrending": [
     {
@@ -10,11 +10,11 @@
     },
     {
       "tag": "Agent",
-      "count": 24
+      "count": 25
     },
     {
       "tag": "Ai Agents",
-      "count": 23
+      "count": 24
     }
   ],
   "version": "2.0.0",
