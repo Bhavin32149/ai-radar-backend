@@ -5156,5 +5156,27 @@
     "stars": 0,
     "votes": 0,
     "points": 0
+  },
+  {
+    "id": "reddit_LocalLLaMA_t3_1rubyij",
+    "title": "Looking for a 100% free AI agent that can control a browser",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1rubyij/looking_for_a_100_free_ai_agent_that_can_control/",
+    "source": "Reddit r/LocalLLaMA",
+    "sourceIcon": "🔴",
+    "type": "news",
+    "timestamp": "2026-03-15T11:43:48+00:00",
+    "abstract": "",
+    "authors": [],
+    "tags": [
+      "agent"
+    ],
+    "score": 6,
+    "priority": "MEDIUM",
+    "sentiment": "neutral",
+    "downloads": 0,
+    "likes": 0,
+    "stars": 0,
+    "votes": 0,
+    "points": 0
   }
 ]
