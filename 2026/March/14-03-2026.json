@@ -1,38 +1,9 @@
 {
-  "generatedAt": "2026-03-15T06:44:45.742Z",
+  "generatedAt": "2026-03-15T07:38:26.501Z",
   "date": "14-03-2026",
-  "count": 39,
+  "count": 38,
   "summary": null,
   "items": [
-    {
-      "id": "gh_614765452",
-      "title": "Significant-Gravitas/AutoGPT — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provi",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "source": "GitHub",
-      "sourceIcon": "⭐",
-      "type": "tool",
-      "timestamp": "2026-03-14T23:28:00Z",
-      "abstract": "",
-      "authors": [],
-      "tags": [
-        "ai",
-        "artificial-intelligence",
-        "autonomous-agents",
-        "gpt-4",
-        "llama-api",
-        "openai",
-        "python",
-        "Python"
-      ],
-      "score": 6,
-      "priority": "MEDIUM",
-      "sentiment": "neutral",
-      "downloads": 0,
-      "likes": 0,
-      "stars": 182461,
-      "votes": 0,
-      "points": 0
-    },
     {
       "id": "reddit_LocalLLaMA_t3_1rtxkm1",
       "title": "Agents given the choice between natural language and structured queries abandoned NL within minutes",
@@ -217,7 +188,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 129494,
+      "stars": 129501,
       "votes": 0,
       "points": 0
     },
@@ -687,7 +658,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 127232,
+      "stars": 127235,
       "votes": 0,
       "points": 0
     },
@@ -738,7 +709,7 @@
       "sentiment": "positive",
       "downloads": 0,
       "likes": 0,
-      "stars": 165085,
+      "stars": 165089,
       "votes": 0,
       "points": 0
     },
@@ -811,7 +782,7 @@
       "sentiment": "neutral",
       "downloads": 0,
       "likes": 0,
-      "stars": 93163,
+      "stars": 93179,
       "votes": 0,
       "points": 0
     },
